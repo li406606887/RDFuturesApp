@@ -1,0 +1,76 @@
+风险披露声明
+Risk Disclosure Statements
+
+本声明并不完全披露进行期货合约交易之风险。鉴于存在着风险，投资者须完全理解有关这类交易的性质 (及契约上的 关系)及其风险程度，才可进行买卖。期货合约交易并非适合任何人士。投资者必须先衡量其经验、财政、目的及其他因 素。
+This Statement does not disclose all of the risks and other significant aspects of carrying out Dealing in futures contracts.  In light of the risks, you should undertake such transactions only  if you understand the nature of the contracts (and contractual relationships) into which you are entering and the extent of your exposure to risk. Dealing in futures contracts is not suitable for many members of the public. You should carefully consider whether trading is appropriate for you in light of your experience, financial resources, objectives and other relevant circumstances.
+
+1.	期货及期权交易的风险 Risk of trading futures and options
+
+期货及期权交易的风险 买卖期货合约或期权的亏蚀风险可以极大。在若干情况下，你所蒙受的亏蚀可能会超过最初 存入的保证金数额。即使你设定了备用指示，例如“止蚀”或“限价”等指示，亦未必能够避免损失。市场情况可能使 该等指示无法执行。你可能会在短时间内被要求存入额外的保证金。假如未能在指定的时间内提供所需数额，你的 未平仓合约可能会被平仓。然而，你仍然要对你的户口内任何因此而出现的短欠数额负责。因此，你在买卖前应研 究及理解期货合约及期权，以及根据本身的财政状况及投资目标，仔细考虑这种买卖是否适合你。
+The risk of loss in trading futures contracts or options is substantial. In some circumstances, you may sustain losses in excess of your initial margin funds. Placing contingent orders, such as "stop-loss" or "stop-limit" orders, will not necessarily avoid loss. Market conditions may make it impossible to execute such orders. You may be called upon at short notice to deposit additional margin funds. If the required funds are not provided within the prescribed time, your position may be liquidated. You will remain liable for any resulting deficit in your account. You should therefore study and understand futures contracts and options before you trade and carefully consider whether such trading is suitable in the light of your own financial position and investment objectives. If you trade options, you should inform yourself of exercise and expiration procedures and your rights and obligations upon exercise or expiry.
+
+2.	在香港以外地方收取或持有的客户资产的风险 Risk of Client Assets Received or Held Outside Hong Kong
+
+持牌人或注册人在香港以外地方收取或持有的客户资产，是受到有关海外司法管辖区的适用法律及规例所监管的。 这些法律及规例与《证券及期货条例》(第 571 章)及根据该条例制订的规则可能有所不同。因此，有关客户资产将 可能不会享有赋予在香港收取或持有的客户资产的相同保障。
+Client assets received or held by the licensed or registered person outside Hong Kong are subject to the applicable laws and regulations of the relevant overseas jurisdiction which may be different from the Securities and Futures Ordinance (Cap.57l) and the rules made thereunder. Consequently, such client assets may not enjoy the same protection as that conferred on client assets received or held in Hong Kong.
+3.	提供代存邮件或将邮件转交第三方的授权书的风险 Risk of Providing an Authority to Hold Mail or to Direct Mail to Third Parties
+
+假如客户向持牌人或注册人提供授权书，允许他代存邮件或将邮件转交予第三方，那么客户便须尽速亲身收取所有 关于客户户口的成交单据及结单，并加以详细阅读，以确保可及时侦察到任何差异或错误。
+If the Client provides the licensed or registered person with an authority to hold mail or to direct mail to third parties, it is important for the Client to promptly collect in person all contract notes and statements of the Client's account and review them in detail to ensure that any anomalies or mistakes can be detected in a timely fashion.
+
+4.	保证金买卖的风险 Risk of Margin Trading
+
+藉存放抵押品而为交易取得融资的亏损风险可能极大。客户所蒙受的亏蚀可能会超过客户存放于有关持牌人或注册 人作为抵押品的现金及任何其他资产。市场情况可能使备用交易指示，例如「止蚀」或「限价」 指示无法执行。客 户可能会在短时间内被要求存入额外的保证金款额或缴付利息。假如客户未能在指定的时间内支付所需的保证金款 额或利息，客户的抵押品可能在未经客户的同意下被出售。此外，客户将要为客户的户口内因此而出现的任何短欠数额及需缴付的利息负责。因此，客户应根据客户本身的财政状况及投资目标，仔细考虑这种融资安排是否适合客户。
+The risk of loss in financing a transaction by deposit of collateral is significant. The Client may sustain losses in excess of the Client's cash and any other assets deposited as collateral with the licensed or registered person. Market conditions may make it impossible to execute contingent orders, such as "stop-loss" or "stop-limit" orders. Client may be called upon at short notice to make additional margin deposits or interest payments. If the required margin deposits or interest payments are not made within the prescribed time, Client's collateral may be liquidated without Client's consent. Moreover, Client will remain liable for any resulting deficit in Client's account and interest charged on Client's account. Client should therefore carefully consider whether such a financing arrangement is suitable in light of Client's own financial position and investment objectives.
+
+5.	存放的现金及财产 Deposited Cash and Property
+
+如果客户为在本地或海外进行的交易存放款项或其他财产，客户应了解清楚该等款项或财产获得哪些保障，特别是 在有关商号破产或无力偿债时的保障。至于能追讨多少款项或财产一事,可能须受限于具体法例规定或当地的规则。 在某些司法管辖区，收回的款项或财产如有不足之数，则可认定属于客户的财产将会如现金般按比例分配予客户。
+Client should familiarize himself with the protections given to money or other property Client deposit for domestic and foreign transactions, particularly in the event of a firm insolvency or bankruptcy. The extent to which Client may recover Client's money or property may be governed by specific legislation or local rules. In some jurisdictions, property which had been specifically identifiable as Client's own will be pro-rated in the same manner as cash for purposes of distribution in the event of a shortfall.
+
+6.	佣金及其他收费 Commission and Other Charges
+
+在开始交易之前，客户先要清楚了解客户必须缴付的所有佣金、费用或其他收费。这些费用将直接影响客户可获得 的净利润 (如有) 或增加客户的亏损。
+Before Client begins to trade, Client should obtain a clear explanation of all commission, fees and other charges for which Client will be liable. These charges will affect Client's net profit (if any) or increase Client's loss.
+
+7.	在其他管辖区进行交易 Transactions in Other Jurisdictions
+
+在其他司法管辖区的市场 (包括与本地市场有正式连系的市场) 进行交易，或会涉及额外的风险。根据这些市场的规 例，投资者享有的保障程度可能有所不同，甚或有所下降。在进行交易前，客户应先行查明有关客户将进行的该项 交易的所有规则。客户本身所在地的监管机构，将不能迫使客户已执行的交易所在地的所属司法管辖区的监管机构 或市场执行有关的规则。有鉴于此，在进行交易之前，客户应先向有关商号查询客户本身地区所属的司法管辖区及 其他司法管辖区可提供哪种补救措施及有关详请。
+Transactions on markets in other jurisdictions, including markets formally linked to a domestic market, may expose Client to additional risk. Such markets may be subject to regulation which may offer different or diminished investor protection. Before Client trades, Client should enquire about any rules relevant to Client's particular transactions. Client's local regulatory authority will be unable to compel the enforcement of the rules of regulatory authorities or markets in other jurisdictions where Client's transactions have been effected. Client should ask the firm with which Client deals for details about the types of redress available in both Client's home jurisdiction and other relevant jurisdictions before Client starts to trade.
+
+8.	货币风险 Currency Risks
+
+以外币计算的合约买卖所带来的利润或招致的亏损 (不论交易是否在客户本身所在的司法管辖区或其他地区进行)， 均会在需要将合约的单位货币兑换成另一种货币时受到汇率波动的影响。
+The profit or loss in transactions in foreign currency-denominated contracts (whether they are traded in Client's own or another jurisdiction) will be affected by fluctuations in currency rates where there is a need to convert from the currency denomination of the contract to another currency.
+
+9.	交易设施 Trading Facilities
+
+电子交易的设施是以电脑组成系统来进行交易指示传递、执行、配对、登记或交易结算。然而，所有设施及系统均 有可能会暂时中断或失灵，而客户就此所能获得的赔偿或会受制于系统供应商、市场、结算公司及/或参与者商号 就其所承担的责任所施加的限制。由于这些责任限制可以各有不同，客户应向为客户进行交易的商号查询这方面的 详情。
+Electronic trading facilities are supported by computer-based component systems for the order-routing, execution, matching, registration or clearing of trades. As with all facilities and systems, they are vulnerable to temporary disruption or failure. Client's ability to recover certain losses may be subject to limits on liability imposed by the system provider, the market, the clearing house and/or participant firms.  Such limits may vary: Client should ask the firm with which Client deals for details in this respect.
+
+10.	电子交易 Electronic Trading
+
+10.1 透过某个电子交易系统进行买卖，可能会与透过其他电子交易主系统进行买卖有所不同。如果客户透过某 个电子交易系统进行买卖，便须承受该系统带来的风险，包括有关系统硬件或软件可能会失灵的风险。系 统失灵可能会导致客户的交易指示不能根据指示执行，甚或完全不获执行。
+Trading on an electronic trading system may differ from trading on other electronic trading systems. If Client undertakes transactions on an electronic trading system, Client will be exposed to risks associated with the system including the failure of hardware and software. The result of any system failure may be that Client's order is either not executed according to Client's instructions or is not executed at all.
+
+10.2	客户明白由于网络拥挤，电子传送可能受阻、中断、耽误 ; 又因互联网可供大众使用，可能会有数据误传 ;
+无法预期的网络拥挤和其他原因，电子传送可能并非可靠的通讯媒体，而此又非持牌人或注册人所控制。 The Client understands that electronic transmission may be subject to interruption, transmission blackout, delayed transmission due to internet traffic or incorrect data transmission due to the public nature of the internet. Due to unpredictable traffic congestion and other reasons, electronic transmission may not be a reliable medium of communication and that such unreliability is beyond the control of the licensed or registered person.
+
+11.	减低风险买卖盘或投资策略 Risk-reducing Orders or Strategies
+
+即使采用某些目的为减轻损失的买卖盘（例如“止蚀”盘或“限价止蚀”盘），也可能作用不大，因为市况可能令 该等买卖盘无法执行。由于运用不同持仓组合的策略，如“跨价买卖”和“马鞍式”组合等，也可能须承担持有最 基本的“长”仓或“短”仓同样高的风险。
+The placing of certain orders (e.g. “stop-loss” orders, or “stop-limit” orders), which are intended to limit losses to certain amounts, may not be effective because market conditions may make it impossible to execute such orders. Strategies using combinations of positions, such as ?spread? and ?straddle? positions may be as risky as taking simple ?long? or ?short? positions.
+
+12.	暂停或限制交易 及价格关系 Suspension or restriction of trading and pricing relationships
+
+市场情况（例如市场流通量不足）及／或某些市场的规则操作（如因为价格限制或一些“跌停板”的措施），而暂 停任何合约或合约月份的交易）均可导致难以完成甚或不能完成交易或进行平仓／对冲，从而增加损失的风险。如 果阁下卖出期权后遇上这情况，损失的风险也可能较大。
+Market conditions (e.g. illiquidity) and/or the operation of the rules of certain markets (e.g. the suspension of trading in any contract or contract month because of price limits or ?circuit breakers?) may increase the risk of loss by making it difficult or impossible to effect transactions or liquidate/offset positions. If you have sold Options, this may increase the risk of loss.
+
+此外，相关资产与期货之间以及相关资产与期权之间一般价格关系可能并不存在。例如，期货期权所涉及的期货合 约须受价格限制而定，但期权本身则不受限制。缺乏相关资产參考价格使投资者难以判断“公平”价格的水准。 Further, normal pricing relationships between the underlying interest and the Futures, and the underlying interest and the
+Option may not exist. This can occur when, for example, the Futures Contract underlying the Option is subject to price limits while the Option is not. The absence of an underlying reference price may make it difficult to judge ?fair? value.
+ 
+
+13.	电子日结单 Daily E-Statement
+
+客户明白第三者可能擅自取阅通信及个人资料。
+The Client understands that communications and personal data may be accessed by unauthorized third parties.

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="方正黑体简体.TTF">
+            <string>FZHTJW--GB1-0</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="51" id="KGk-i7-Jjw" customClass="AccountSecuritySecondCell">
+            <rect key="frame" x="0.0" y="0.0" width="324" height="51"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="324" height="50"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="titleLabel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gwc-4X-9Jb">
+                        <rect key="frame" x="15" y="12" width="90" height="26"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="90" id="wnq-HB-Ol9"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="FZHTJW--GB1-0" family="FZHei-B01S" pointSize="15"/>
+                        <color key="textColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3vF-Qg-qXl">
+                        <rect key="frame" x="266" y="11" width="43" height="28"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="43" id="ZZk-rh-Ad4"/>
+                            <constraint firstAttribute="height" constant="28" id="jkr-Fp-tCK"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="FZHTJW--GB1-0" family="FZHei-B01S" pointSize="12"/>
+                        <state key="normal" title="更换">
+                            <color key="titleColor" red="0.1647058824" green="0.67843137249999996" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </state>
+                        <connections>
+                            <action selector="changeBtnClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="OS4-hh-6YO"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PhoneLabel" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mFw-DJ-vvN">
+                        <rect key="frame" x="115" y="12" width="146" height="27"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="27" id="OiH-MO-hAp"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="FZHTJW--GB1-0" family="FZHei-B01S" pointSize="12"/>
+                        <color key="textColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="gwc-4X-9Jb" secondAttribute="bottom" constant="12" id="KJa-N6-dNR"/>
+                    <constraint firstItem="mFw-DJ-vvN" firstAttribute="leading" secondItem="gwc-4X-9Jb" secondAttribute="trailing" constant="10" id="T1a-w2-6F7"/>
+                    <constraint firstItem="3vF-Qg-qXl" firstAttribute="leading" secondItem="mFw-DJ-vvN" secondAttribute="trailing" constant="5" id="TBP-QW-kOW"/>
+                    <constraint firstItem="3vF-Qg-qXl" firstAttribute="centerY" secondItem="gwc-4X-9Jb" secondAttribute="centerY" id="WcU-b7-Lss"/>
+                    <constraint firstAttribute="trailing" secondItem="3vF-Qg-qXl" secondAttribute="trailing" constant="15" id="fwi-BU-AvO"/>
+                    <constraint firstItem="gwc-4X-9Jb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="jd8-7t-U81"/>
+                    <constraint firstItem="mFw-DJ-vvN" firstAttribute="centerY" secondItem="gwc-4X-9Jb" secondAttribute="centerY" id="u9k-XE-jJD"/>
+                    <constraint firstItem="gwc-4X-9Jb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="12" id="xcz-FE-kax"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="changeButton" destination="3vF-Qg-qXl" id="V9C-Hf-Ecg"/>
+                <outlet property="phoneLabel" destination="mFw-DJ-vvN" id="NpI-Hb-GmI"/>
+                <outlet property="titleLabel" destination="gwc-4X-9Jb" id="W4d-Ew-K9e"/>
+            </connections>
+            <point key="canvasLocation" x="28" y="55.5"/>
+        </tableViewCell>
+    </objects>
+</document>

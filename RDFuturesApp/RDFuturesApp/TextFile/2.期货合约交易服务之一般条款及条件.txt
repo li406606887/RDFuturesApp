@@ -1,0 +1,581 @@
+期货合约交易服务之一般条款及条件
+General Terms and Conditions for Dealing in futures contracts Services
+
+
+以下条款及条件适用于客户在瑞达国际金融控股有限公司的期货合约交易所开立及维持的户口(以下简称「户口」)，以进行期货合约交易。
+The following terms and conditions shall apply to and govern the accounts (hereinafter referred to as "the Account") that the Client opens and maintains with Rui Da International Finance Holding Limited (hereinafter referred to as "RUI DA") for Dealing in futures contracts.
+
+1.定义和诠释 Definitions and Interpretation
+
+1.1在本条款及条件中，除非上下文另有要求，下列术语应具有如下定义:
+In these Terms and Conditions, unless the context otherwise requires, the following expressions shall bear the following meanings:
+
+「联属人」	就任何特定一方而言，指任何法律实体而在任何时间，此实体直接或间接控制该特定一方、受该特定一方直接或间接控制或与它受到共同控制；
+“Affiliate”	in relation to a specific party means, any legal entity at any time directly or indirectly controlling, controlled by or under common control with such specific party;
+
+「FATCA」	指美国的《1986年国内税收法》（不时修订、修改及/或补充）第 1471 至 1474 条以及任何联属、类似或相似的法例、条约、政府与政府间的协议、法规、指示或不论香港以内或以外的任何管辖区的任何机关的其他官方指引。
+“FATCA”	means Section 1471 to 1474 of the United States Internal Revenue Code of 1986, as amended,modified and/or supplemented from time to time, and any associated similar or analogous legislation, treaty, intergovernmental agreement, regulation, instruction, or other official guidance of any Authority in any jurisdiction whether within or outside of Hong Kong;
+
+「协议」	指由客户与瑞达国际金融控股有限公司签署的客户协议书、本章节的条款及条件、本协议的所有附表、附录和附件、以及瑞达国际金融控股有限公司以书面形式不时发布的所有修改。
+"Agreement"	means the Client Agreement entered into between the Client and RUI DA, the terms and conditions of this Chapter, all schedules, appendices and attachments thereto, and all amendments issued by RUI DA in writing from time to time.
+
+「买卖差价」	指买价和卖价之间的差额。
+"Bid-Offer Spread"	means the difference between the bid price and the offer price.
+
+「客户」	的含义包括以下几种情况 : 如属个人应包括客户及其遗嘱执行人及遗产管理人:如属独资经营商号应包括该独资经营者及其遗嘱执行人、遗产管理人及业务继承人;如属合伙经营商号,应包括客户开户期间的商号合伙人，以及彼等的遗嘱执行人、遗产管理人及此后担任或曾担任该商号合伙人的其他人士及其遗嘱执行及遗产管理人，以及该合伙经营业务的继承人 ; 如客户为公司，应包括该公司及继承人。
+"Client"	shall in the case where the client( s) is /are individual(s) includes the client(s) and his/their respective executors and administrators and in the case where the client is a sole proprietorship firm includes the sole proprietor and his executor and administrator and his or their successors in the business and in the case of a partnership firm includes the partners who are the partners of the firm at the time when the client's said account is being maintained and their respective executors and administrators and any other person who shall at any time hereafter be or have been a partner of and in the firm and his or their respective executors and administrators and the successors to such partnership business and where the client is a company includes such company and its successors.
+
+「客户责任」	包括客户对瑞达国际金融控股有限公司、及其联属人的一切义务和责任，无论是目前或将来，实际或偶然，亦不论是单独、分别或联同其他人士以当事人或保证人身份的责任和义务，连同利息、佣金、费用以及任何其他费用和支出，包括就客户户口所招致的律 师及客户间的法律费用。
+"Client's Liabilities"	includes all obligations and liabilities of the Client to RUI DA and its affiliates, whether present or future, actual or contingent and whether incurred solely, severally, or jointly as principal or surety, together with interest, commission, charges and any other costs and expenses, including legal costs on a solicitor and client basis, incurred in respect of the Client's account.
+
+「客户户口代码」 指瑞达国际金融控股有限公司给予客户的户口号码、户口名称、用户代码、用户身份 码、用户密码和任何其他资讯，用作鉴定客户户口。
+"Client's Account	means  the account  number,  account name, user code,  user ID, user password and any other Codes"	information given by RUI DA to the Client for the unique identification of the Client's account.
+
+「电子途径」	指包括互联网、电邮、流动电话、掌上电脑或任何其他电子通讯方式，以及非电子通讯，包括口头及书面指示及传真通讯。
+"Electronic Means"	including the internet, electronic mail, mobile phone, personal digital assistant or any other electronic means of communication but also allowing non-electronic communication including verbal and written instructions and communication via facsimile.
+
+「书面形式」	包括手写、印刷、电报、电传、传真、网络设施、电子邮件以及能够以可见的形式复制或「书面」	资讯的其他任何方式。
+"In writing" or "written"   includes handwriting, printing, telegraph, telex, fax, the Web Facility, electronic mail and any other means capable of reproducing information in a visible form.
+「期货合约交易」	定义载于证券及期货条例。
+"Dealing in Futures	has the meaning ascribed to it in the SFO. Contracts"
+
+「损失」	指任何损失、损害赔偿、诉讼、申索、索求、行动、责任、讼费、刑罚、罚款、税项、费用及支出不等，包括但不限于任何直接或间接、特别或招致的损失（不论有关合约方 是否知悉发生该等损失的可能性或对其有合理预测）、任何盈利损失、收入损失、商誉 或声誉的损害、损失合约或生意机会、损失款额用途、无法收回款额、错误缴付款额、 利息及任何其他对第三方任何性质的责任。
+"Loss"	means any losses, damages, proceedings, claims, demands, actions, liabilities, costs, penalties, fines, taxes, fees and expenses whatsoever, including but not limited to any direct, indirect, special or consequential losses (whether or not the possibility of such were known about or reasonably in the contemplation of the relevant parties), any loss of profits, loss of revenue, damage to goodwill or reputation, loss of contracts or business opportunities, loss of use of money, money not recovered, money paid out in error, interest, and any liability to any third party of any nature whatsoever.
+
+「保证金」	指客户在瑞达国际金融控股有限公司处存入的现金及其他抵押品，作为客户履行其客户责任的一种保证。
+"Margin"	means the collateral deposited by the Client with RUI DA as a guarantee of the Client's performance in connection with the Client's Liabilities.
+
+「市场条件」	包括由独立于瑞达国际金融控股有限公司的资讯提供商、银行、金融机构或受监管公司所提供的该市场的汇率、价格、新闻和其他任何资讯，诠释权属瑞达国际金融控股有限公司。
+"Market Conditions"	includes rates, prices, news and any other information of a market provided by an information provider, a bank, a financial institution or a regulated company, independent of RUI DA, construed and interpreted solely by RUI DA.
+
+「服务」	指瑞达国际金融控股有限公司在本协议下通过网络设施或其他方式提供的服务。
+"Services"	means the services provided by RUI DA under this Agreement, through the Web Facility or otherwise.
+ 
+
+「结算货币」	指港币或被瑞达国际金融控股有限公司接受用于不时与客户进行结算的其他货币(视情况而定)。
+"Settlement Currency"	means Hong Kong Dollars or any other currencies as accepted by RUI DA, as the case may be, for settlement of monies with the Client from time to time.
+
+「证监会」	指香港的证券及期货事务监察委员会。
+"SFC"	means the Securities and Futures Commission in Hong Kong.
+
+「RUI DA」	指瑞达国际金融控股有限公司，及其业权继承人及承让人。
+means Rui Da International Finance Holding Limited, and its RUI DA in title and assigns.
+
+「证券及期货条例」	指不时修订或重新制定的香港法例第 571 章之证券及期货条例以及其下的任何附属立法 形式。
+"SFO"	means the Securities and Futures Ordinance (Cap. 571) of the laws of Hong Kong SAR as amended or re-enacted from time to time and any subsidiary legislation made thereunder.
+
+「网络设施」	指由瑞达国际金融控股有限公司向客户提供的用于客户户口下进行交易和报表的网上设施以及当中所使用的软件及包含的任何资讯。
+"Web Facility"	means the on-line facilities provided by RUI DA to the Client for trading and reporting under the Client's account(s), any information contained therein and the software comprised in them.
+
+1.2	本协议中插入的标题只为方便参阅，不会影响对本条款及条件的诠释。
+Headings are inserted for reference only and shall not affect the construction and interpretation of these Terms and Conditions.
+
+1.3	在本条款及条件内，除非与文义相抵，述及人士的字词包括公司及商号，男性字词包括女性含义，单数字 词包括复数意义，反之亦然。
+In these Terms and Conditions, unless inconsistent with the context, words denoting person include corporation and firm, words denoting masculine gender include feminine gender, and words denoting singular number include plural and vice versa.
+
+1.4	本协议所提及的法定条文，须解释为不时修订或重新颁布的条文(不论在本协议签署之日前，还是之后修订 或重新颁布)，并包括重新颁布的条文(不论有否修订)，以及据之制订的附属法例。
+References to statutory provisions shall be construed as references to those provisions as respectively amended or re-enacted (whether before or after the date of signature of this Agreement) from time to time and shall include any provision of which they are re-enactments (whether with or without modification) and any subordinate legislation made under those provisions.
+
+2.	保证和陈述 Warranties and Representations
+
+2.1	瑞达国际金融控股有限公司按证券及期货条例持牌，中央编号为 AYE774，用于进行期货合约交易。 RUI DA is licensed with CE number AYE774 under the SFO for Dealing in futures contracts.
+
+2.2	在进行任何期货合约交易前，客户已认识及理解下述内容  :
+Prior to entering into any transaction on Dealing in futures contracts, the Client is aware of and understands the followings:
+
+(a)	合约条款 Contract information: -交易期货、合约单位、买卖盘、开仓或平仓、现行报价以及盘类。
+Trading Futures, contract size, buy or sell order, opening or closing trade, current quoted price, and order type.
+
+(b)	保证金 Margin: - 客户保证金的大概要求、价格变动保证金的支付、可作为保证金的抵押品、保证金的支付细节。
+Approximate client margin requirements, payment of variation margin, and provision of margin collateral, payment details of margin.
+
+(c)	交易费用 Transaction costs: -佣金、行使费及其他适用征费。
+Commissions, exercise fees and applicable levies.
+
+(d)	期货及／或期权交易风险 Knowledge on risks of Futures and/or Options trading: -客户应知晓从事期货及期权交易具有风险，并已学习、掌握期货及期权交易风险管理制度。客户应在 开户前对自身的经济承受能力和心理承受能力做出客观判断，应仔细阅讀条款以及有关香港个人资料（私隐）条例之通告。
+Customers shall be aware that Futures and Options trading are risky and ensure that they have already studied carefully and understood the risk management rules concerning Futures and Options trading. Before opening an account, Customers shall make an objective assessment of their risk-taking level from a financial and psychological perspective, and read carefully the Terms and Conditions and the Circular relating to the Personal Data (Privacy) Ordinance of Hong Kong.
+
+(e)	期货及／或期权交易规则 Knowledge on the rules for Futures and/or Options Trading: - 客户应知晓期货及期权的法规和交易规则。各交易所的期货及期权交易规则在其相关网站有公示，客 户应在交易过程中严格遵守。
+Customers shall have clear understanding of the laws, regulations and trading rules for Futures and Options trading. Trading rules for Futures and Options of the relevant Exchanges are published on their respective websites. Customers shall strictly adhere to such rules in the course of trading.
+
+(f)	客户本人须对其代理人的代理行为承担民事责任 Knowledge on Customer?s civil liabilities arising out of the acts of their agent: - 
+客户代理人是基于客户的授权,代表客户实施民事行为的人，代理人向客户负责。代理人在代理许可权内以客户名义进行的行为即视为客户自己进行的行为，客户对代理人代理行为的后果承担一切责任。 
+The Customer?s agent is authorized by the Customer to perform civil acts on its behalf, and the agent is accountable to the Customer. Civil acts performed by an agent in the Customer?s name within the scope of the agency shall be regarded as being performed by the Customer himself. The Customer shall bear all liabilities arising out of the acts of the agent under agency.
+
+(g)	密码的使用及管理 Knowledge on the use and management of password: - 客户会同时获取客户户口号码及相对应的初始交易密码及初始资金密码。获取户口号码视同已获取相 对应的密码。客户知晓应在首次转入资金前更改上述密码，无論任何情况客户首次转入资金后即被视 为己修改初始密码。
+Customers will be provided with an account number and the corresponding initial transaction password and initial transfer password. Being provided with an account number shall be deemed as having the corresponding password at the same time. Customers shall change the password before depositing any fund for the first time. In any event, Customers shall be deemed to have changed the password after they deposited fund for the first time.
+
+客户应避免使用本人证件上相关资料作为使用密码并有义务妥善及安全地保管自己的交易密码及资金 密码。因客户未能妥善及安全地保管上述密码而造成的一切后果由客户自行承担。
+Customers shall avoid using any data on their identity documents as a password and shall have the obligations to properly and securely keep the transaction password and the transfer password. Customers shall bear the entire liabilities arising out of the failure in keeping the passwords properly and securely.
+
+(h)	通知事项的查询方式 Knowledge on notifiable events and enquiry channels: - 瑞达国际金融控股有限公司将不时发出通知事项，包括但不限于交易所交易规则变更通知，瑞达国际 金融控股有限公司保证金、手续费等交易和结算參數调整通知，客户交易结算报告，追加保证金通 知，强制平仓通知书，瑞达国际金融控股有限公司交易系统、行情系统、网站变更通知等等。瑞达国 际金融控股有限公司将通过公司网站、客户网上交易端等管道向客户发布不涉及客户私有交易情况的 通知事项。客户交易结算报告、追加保证金通知、强制平仓通知书、单独调整保证金通知等客户私有 报告或通知事项将通过客户本身提供的电邮地址或瑞达国际金融控股有限公司向客户提供的电邮位址 单独发布。瑞达国际金融控股有限公司通过上述任何一种方式发布通知事项即视为已履行了对客户的 通知义务。
+From time to time, RUI DA will notify the Customer of, including, but not limited to, amendments of trading rules, change of the RUI DA?s margin requirements, transaction fee and other trading and settlement information, customer transaction settlement report, notice of margin call, notice of forced liquidation, and notice on the change of the RUI DA?s trading system, quote system and websites. RUI DA will inform the Customers of notifiable events that are not related to Customers? private transactions through different channels including the website of RUI DA and the Customers? online trading terminal. Private reports and /or notifications, such as the customer transaction and settlement report, notice of margin call, notice of forced liquidation and notice on individual change of margin, will be sent to the Customers separately through e-mail address that having been provided by the Customers to RUI DA or having been provided by RUI DA to the Customers. RUI DA?s dissemination of notifications through any of the above channels will be regarded as having fully discharged its obligations of notification owed to the Customers.
+
+(i)	风险控制原则/措施 Knowledge on risk management rules/measures: - 客户通过瑞达国际金融控股有限公司进行期货及/或期权交易即同意瑞达国际金融控股有限公司有权进 行风险控制。瑞达国际金融控股有限公司有权在期货及/或期权交易相关法律法规等许可的范围内按照 双方约定的风险控制条件实施相应风险控制措施。瑞达国际金融控股有限公司按照约定的条件实施的 风险控制措施产生的一切责任、损失和费用均由客户完全承担。
+If the Customers conduct Futures and/or Options trading through RUI DA, the Customers will be deemed to have agreed that RUI DA shall have the right to conduct any risk management measures. So far as not contravening any laws and/or regulations relating to the respective Futures and/or Options trading, RUI DA shall have the right as agreed by the Customer to take any risk management measures. Customers shall bear the entire liabilities, losses and expenses incurred or caused by any risk management measures taken by RUI DA within the scope as agreed.
+
+(j)	伦 敦 金 属 交 易 所 （简称 LME ）的有关特点Knowledge on the characteristics of London Metal Exchange(LME) : -
+LME	期货合约的结算规则规定，合约未到期盈利可以作为交易保证金但不得提前支取。合约平仓必须通过调期才能完成，兩个合约之间调期的升贴水，无法通过计算获得，而需要以各经纪商的报价为依据。
+As stipulated under the LME settlement rules of futures contract, earnings accrued before the maturity of a futures contract could be used as trading margin, but cannot be realized before the maturity date. Contract liquidation will be conducted via the way of carrying between contracts. The rate of the carried futures contracts cannot be ascertained by simple calculation and shall be determined by reference to the quotes of the participants in question.
+
+2.3	客户特此声明 :
+The Client declares that :
+(a)	客户在法律上有能力合法有效地签定本协议；
+the Client is legally capable of validly entering into this Agreement ;
+(b)	客户已详阅本协议之中/英文本，其中内容亦全部以客户知晓的语言，向客户解释清楚。客户赞成及同意本协议内之一切条款及细则;
+the Client has read the Chinese/English version of this Agreement and that the contents of this Agreement have been fully explained to the Client in a language which the Client understands. The Client hereby agrees and consents to the terms and conditions herein contained;
+(c)	客户已从瑞达国际金融控股有限公司的代表人了解到可能影响户口交易的合约细则、收取保证金手续 及收费程序，及客户的未平仓合约可能在未经客户同意情况下被平仓的处境;
+the Client has understood from RUI DA's representative(s) any contract specifications, Margin procedures, fee and charge schedule that may affect the Client?s trading activities in connection with the Account, and the circumstances under which the Client's positions may be closed without the Client's consent;
+(d)	客户在本协议中所提供的资料是完整、真实和正确的;和
+any information given by the Client in this Agreement is complete, true and correct; and
+(e)	客户是为其本身进行交易，或为「户口最终实益拥有人声明」所载列最终实益拥有人进行交易。
+The Client is trading on his own account or for the account of the ultimate beneficial owner of the Account as set out in the "Declaration on the Ultimate Beneficial Owner of the Account".
+(f)	客户在操作其户口时，是由其本人发出交易指示。如客户委任另一名人士代表其发出交易指示，需提 供该名获委任人士的名称及地址及委任书。
+The Client operates his account by giving orders and instructions himself. If he appoints another person to give orders and instructions on his behalf, he shall notify RUI DA of the name and address of the person appointed to be accompanied by an appointment in writing.
+(g)	除客户已另行以书面向瑞达国际金融控股有限公司申报的外，客户并非任何交易所、商会、 结算所、 银行或信托公司员工或高级职员或董事，或任何于香港或其他地方持牌或注册的证券及╱或期货合约 交易商或经纪的联属人，或该经纪或交易商的任何高级职员、合伙人、董事或雇员；
+the Customer, except as previously disclosed in writing to RUI DA, is not an officer or employee of any exchange, board of trade, clearing house, bank or trust company, or an affiliate of any dealer or broker in securities and/or futures contracts licensed or registered in Hong Kong or elsewhere, or an officer, partner, director or employee of any such broker or dealer;
+(h)	客户明白其交易之产品的性质及风险，并具有充足的净值承担风险及该等交易带来的潜在亏损；
+the Customer understands the nature and risks of the products in which he is trading and has sufficient net worth to be able to assume the risks and bear the potential losses of trading in such products.
+(i)	并无关于客户而已经发生及/或正在持续的违约事项或可变成违约事项的事项。
+no Event of Default or any event which may become an Event of Default has occurred and/or is continuing with respect to the Customer.
+
+2.4 客户声明及确认户口的开立地是香港特别行政区，有关户口一切操作事宜均受香港特别行政区的法律管辖。客户保证此项投资符合客户的居藉地或成立/设立地区或注册地区之法律规定并已办妥一切必要的审批手续。一切用于操作户口的款项将由客户安排以瑞达国际金融控股有限公司要求之其他货币或港币 (视情况而定) 存 入瑞达国际金融控股有限公司指定之银行户口。
+The Client declares and acknowledges that the Account is opened in the Hong Kong Special Administrative Region, all the operations in relation to the Account shall be governed and enforced by the laws of the Hong Kong Special Administrative Region. The Client warrants that this investment complies with the laws and regulations of the Client's residing domicile or place of incorporation / establishment or place of registration and all the required approval has been granted.  The Client will arrange all the funds used for the operation of the Account to be deposited in any other currency as required by RUI DA or Hong Kong Dollars (as the case may be) to the bank designated by RUI DA.
+
+2.5	客户和瑞达国际金融控股有限公司在本协议中提供的资料如有实质改变，须立刻知会另一方。
+The Client and RUI DA shall notify each other forthwith of any material changes in the information supplied in this Agreement.
+
+3.	户口 The Account
+
+3.1 客户确认「客户资料附录」及「户口最终实益拥有人声明」(如适用) 所载资料，或以其他方法由客户或客户 代表向瑞达国际金融控股有限公司提供之有关资料均属完整、真实及正确。倘该等资料有任何变更，客户将 会即时通知瑞达国际金融控股有限公司。客户特此授权瑞达国际金融控股有限公司对客户的信用进行查询， 以核实客户所提供的资料。
+The Client confirms that the information provided in the "Client Information Statement" and the "Declaration on the Ultimate Beneficial Owner of the Account" (if applicable) or otherwise provided by or on behalf of the Client to RUI DA in connection with the opening of the Account is complete, true and correct. The Client will inform RUI DA of any changes to that information forthwith. RUI DA is hereby authorized to conduct credit enquiries on the Client to verify the information provided.
+
+3.2 客户保证客户为所开户口之最终实益拥有人，客户并非代表其他受益人而持有该户口。如非上述情形,客户已 向瑞达国际金融控股有限公司作出声明并作出有关证明及承诺。如有任何变更，客户同意立即以书面通知瑞 达国际金融控股有限公司所有最终实益拥有人之身份及有关该等资料之变更，客户亦同意该等资料可根据此 开户合约第 3.3 及 3.4 条予以披露。
+The Client warrants that the Client is the ultimate beneficial owner of the Account and that the Client is not holding the Account on behalf of or for the benefit of any person. Where the aforesaid is not applicable, the Client has made a declaration together with the Client's warranty for whom is the ultimate beneficial owner of the Account. The Client agrees to immediately notify RUI DA in writing of the identity of all persons ultimately beneficially interested in the Account and any changes thereto and that this information may be disclosed in accordance with Clauses 3.3 and 3.4 of this Agreement.
+
+3.3 瑞达国际金融控股有限公司将会对户口的有关资料予以保密，但瑞达国际金融控股有限公司有权遵守监管规 则向应证监会的要求及任何其他监管机构 (不论香港或海外) 及/或向其联属人披露「客户资料附录」内或户 口内之资料。客户确认瑞达国际金融控股有限公司对提供上述资料不承担任何责任。
+RUI DA will keep information relating to the Account confidential, but RUI DA has the right to disclose the information in the "Client Information Statement" or of the Account to SFC and any other regulatory bodies (whether in Hong Kong or elsewhere) as may be requested or otherwise for compliance of the governing rules, and/or disclose the same to the Affiliates. The Client confirms that RUI DA shall not be liable to the Client for providing such information.
+
+3.4 根据个人资料 (私隐) 条例，客户同意瑞达国际金融控股有限公司可提供其个人资料予任何向户口提供服务之 代理、代表或其联属人。该等资料乃用于瑞达国际金融控股有限公司或其联属人为提供投资、期货合约交 易、顾问或其他相关服务及执行有关规则或法律或监管的规定。
+Pursuant to the Personal Data (Privacy) Ordinance, the Client agrees that RUI DA may provide the Client's personal data to any agent, representative or Affiliates which provide(s) services in connection with the Account. Such information is required to perform the investment, Dealing in futures contracts, advisor or other related services which RUI DA or the Affiliates offer(s) and to observe any rules or legal or regulatory requirements.
+
+客户知悉倘未能向瑞达国际金融控股有限公司提供有关资料，这将导致瑞达国际金融控股有限公司延迟或不 能执行客户之指示或不能提供所需之服务，特别是如果因此而影响瑞达国际金融控股有限公司遵守有关规则 及监管的规定。客户可向瑞达国际金融控股有限公司要求查阅或更正已提供资料。
+The Client acknowledges that any failure to supply the requested personal data may result in delay or RUI DA's inability to carry out the Client's instructions or provide requested services, particularly if it affects RUI DA's ability to ensure compliance with applicable rules and regulatory requirements.  The Client is entitled to request access to or to request the correction of data previously supplied to RUI DA.
+
+3.5 瑞达国际金融控股有限公司不时修订之「期货合约交易买卖细则」已详细列明有关之保证金要求及买卖细则，并补充及成为本协议的一部份。
+The detailed terms and conditions for Margin requirements and Dealing in futures contracts are set out in the "Detail Instructions for Dealing in futures contracts", which may be amended by RUI DA from time to time and shall supplement and form part or this Agreement.
+
+3.6 倘本协议之条款有任何重大改动，瑞达国际金融控股有限公司将会通知客户。客户同意，公司可于任何时候 通过向客户发出合理的通知修订本协议的条款。本条款的任何修订将于该通知指明之生效日期起即为生效，及如客户没有结束户口，则客户将被视为已接受本协议条款的修订。
+RUI DA will notify the Client in the event of any material change to the terms of this Agreement. The Client agrees that it will be at the discretion of RUI DA to send any reasonable notices, amendments, revision or any material change on the terms and conditions of this Agreement to the Client. Amendments and revisions of this Agreement can be in force on a specified date if the account of the Client is still in place. In all these respects, the Client is deemed to accept the revision of this Agreement.
+
+3.7 客户于「客户资料附录」内所提供之任何联络资料将被视作客户与瑞达国际金融控股有限公司之间经授权及有效之通讯方法。
+Any contact details provided by the Client in the "Client Information Statement" shall be deemed to be the authorized and valid communication channel between the Client and RUI DA.
+
+3.8 瑞达国际金融控股有限公司的雇员或代表不得接受客户委任的代理人操作客户的户口代表其发出交易指示，除非另立协议。
+None of RUI DA?s employees or representatives shall accept appointment by the client as agent to operate the client?s account and to give orders unless a separate agreement is entered into.
+
+3.9 如果客户包括一名以上个人人士（每名人士为「联名户口持有人」），该户口将为拥有生存者取得权的联名 户口。于任何一名联名户口持有人身故时，该已故人士于户口的权益，将归于尚存人士所有。
+Where the Customer consists of more than one individual (each a “joint account holder”), the Account shall be a joint account with the right of survivorship. Upon the death of any joint account holder, the interest of the deceased joint account holder in the Account will ensure to the benefits of the surviving joint account holder(s).
+
+3.10 与本协议有关的每名联名户口持有人须共同及各别承担责任。
+The liabilities of each joint account holder in connection with the Agreement shall be joint and several.
+
+3.11 任何一名联名户口持有人身故不会构成协议的终止，除非再无尚存的联名户口持有人。
+The death of any one joint account holder does not operate to terminate the Agreement unless there remains no surviving joint account holder.
+
+3.12 瑞达国际金融控股有限公司对任何一名联名户口持有人作出的任何通知、付款或交付，应为瑞达国际金融控 股有限公司已完全地及充分地履行其根据协议通知、付款或交付客户的责任。
+Any notice, payment or delivery by RUI DA to any one of the joint account holders shall be a full and sufficient discharge of RUI DA?s obligations to notify, pay or deliver to the Customer under the Agreement.
+
+3.13 如果任何一名联名户口持有人在精神上无行为能力或被颁布破产令或清盘令，或如果证券户口的操作受到任何法院法令或任何主管当局对任何一名联名户口持有人发出通知的影响，证券户口的操作（包括提取或转移资金或资产）将会暂时中止，直至委任破产管理人或接管人或已征得接管人或破产管理署署长的同意或法院法令已经解除或有关通知已获撤销（视情况而定）为止。
+In the event of any joint account holder being mentally incapacitated or if a bankruptcy order or winding up order is made against any joint account holder or if the operation of the Account is affected by any court order or notice from any competent authority against any joint account holder, the operation of the Account (including the withdrawal or transfer of funds or assets from the Account) will be suspended until an administrator or receiver is appointed or the consent of the receiver or Official Receiver is obtained or the court order is discharged or the relevant notice is removed (as the case may be).
+
+3.14 如顾客是合伙商号：
+Where the Customer is a partnership:
+(a)	不论合伙商号的组成或名称有任何转变或合伙人身故、破产、退休或有任何新合伙人加盟或任何合伙 人的权力有任何变更或终止，本协议对合伙商号的不时的合伙人共同及各别地具有法律的约束力；
+the Agreement shall be binding on the partners of the partnership from time to time jointly and severally notwithstanding any change in the constitution or name of the partnership, or any change in the partners by reason of death, bankruptcy, retirement or admission of any new partner, or any modification or termination of any powers of any partner;
+(b)     即使任何其他合伙人或拟受本协议约束的任何其他人士不受约束，每名合伙人仍受约束；
+each partner shall be bound even though any other partner or any other person intended to be bound by the Agreement is not;
+(c)	瑞达国际金融控股有限公司有权就任何事宜单独与一名合伙人交易，包括解除或撤销该合伙人的任何责任，而不影响任何其他合伙人的责任；及
+RUI DA shall be entitled to deal separately with a partner on any matter, including the release or discharge of the liability of that partner to any extent, without affecting the liability of any other partner; and
+(d)     合伙人对于另一合伙人的责任或债务并无担保或作出补救的权利。
+no partner shall be entitled to the rights or remedies of a surety as regards the liability or obligations of another partner.
+
+4. 法制及规则 Laws and Rules
+
+4.1 法律和法规：瑞达国际金融控股有限公司或瑞达国际金融控股有限公司的代理人代表客户或为客户户口（无论是在香港还是在其他地方）进行的所有交易均须遵守本协议的条款和条件，香港以及其他适用司法管辖区域的所有适用法律、规则和条例；以及香港期交所以及上述其他交易所和市场（及相关结算公司）所采用的宪法、规则、条例、程式、章程、惯例和常规。就按客户指令而达成的交易而言，上述交易所和结算公司的规则对瑞达国际金融控股有限公司和客户均具有约束力，而且这些规则包括的某些条款要求瑞达国际金融控股有限公司在特定情况下必须披露客户的姓名、受益人身份以及其他相关资料。
+Regulatory and Compliance: All transactions made by the Client or on their behalf, whether in Hong Kong or elsewhere, between RUI DA or its agents are subject to the terms and conditions of this Agreement and all applicable laws, rules and regulations in Hong Kong and other applicable jurisdictions; and the constitution, rules, regulations, procedures, statutes and practices adopted by the Hong Kong Futures Exchange and the other exchanges and markets (and related clearing houses). The rules of the above exchange and clearing houses are binding on RUI DA and the Client in relation to the transactions effected in accordance with the Client's instructions and certain provisions of these Rules include the requirements of RUI DA. In certain circumstances, the Client's name, beneficiary identification, and other relevant data must be disclosed.
+
+4.2 法律约束力：客户同意本协议（包括电子交易条款）及其所有条款将对客户本身，以及其继承人、遗产、遗产执行人和代理人、继任人和承让人具有法律约束力。瑞达国际金融控股有限公司根据有关法律、规则和条例所采取的所有行为都将对客户具有法律约束力。客户在期货等衍生品交易中不能违反其应遵守的任何法律、规则或规定。若本协议任何条款与现行或将来任何法律、香港监管机构或任何对本协议的事项由管辖权的主管机构的规则和条例相抵触，该些条款将被视为已根据有关法律、规则和条例删除或修改，而本协议的其他部分继续有效。
+Legally binding: The Client agrees that this Agreement (including terms of electronic transaction) and all its terms shall be legally binding on the Client, inclusive their successors, probate, estate executors and agents, successors and transferees. Taken by RUI DA in accordance with the relevant laws, rules and regulations will be legally binding to the Client. The Client shall not violate any laws, rules or regulations to which they are subject in derivative transactions such as futures. If any provision of this Agreement conflicts with existing laws, Hong Kong regulators or any of the matters governed by this Agreement by the competent authority's rules and regulations, those provisions shall be deemed to have been removed or modified in accordance with the relevant laws, rules and regulations, and the remainder of this Agreement shall continue in effect.
+
+4.3 香港司法管辖：本协议将受中华人民共和国香港特别行政区香港法律管辖并根据香港法律解释。客户不可撤 回地接受香港法庭的非专业司法管辖。
+Hong Kong Jurisdiction: This Agreement shall be governed by and construed in accordance with the laws of Hong Kong of the Hong Kong Special Administrative Region of China. The Client irrevocably accepts the jurisdiction of Hong Kong.
+
+5.服务 Services
+
+5.1瑞达国际金融控股有限公司不会向客户提供全权委托户口服务。
+RUI DA shall not offer discretionary account services to the Client.
+
+5.2 瑞达国际金融控股有限公司以主事人的身份进行期货合约交易，除非瑞达国际金融控股有限公司向客户另行 发出通知。
+RUI DA is acting as a principal for Dealing in futures contracts unless the Client is otherwise notified by RUI DA.
+
+5.3 尽管须遵守本协议所载之条款及细则，瑞达国际金融控股有限公司将有权在其绝对的酌情权下拒绝接纳客户 之任何指示，且毋须就此给予任何理由,包括但不限于  :
+Notwithstanding anything herein contained RUI DA shall be entitled in its absolute discretion, to refuse to accept any of the Client's instructions and shall not be obliged to give any reason for such refuse, including but not limited to the followings:
+(a) 交易指示不符合瑞达国际金融控股有限公司的规定和要求 ;
+the trade instruction does not comply with the limitations and requirements specified by RUI DA;
+(b) 瑞达国际金融控股有限公司口头或书面给予的价格已失效或已被瑞达国际金融控股有限公司撤销  ; the price given by RUI DA, verbally or in writing, shall have expired or has been withdrawn by RUI DA;
+(c) 瑞达国际金融控股有限公司不能确实地了解交易指示的内容 ;
+the terms of the trade instruction cannot be determined with certainty by RUI DA; 
+(d) 户口内无足够保证金和/或结算金额 ; 和/或
+there is a lack of funds in the Account for Margin and/or settlement; and/or 
+(e) 客户在瑞达国际金融控股有限公司的未平仓限额可能已经超出。
+the limit of open positions that the Client may acquire or maintain at RUI DA shall have exceeded.
+
+5.4 如瑞达国际金融控股有限公司行使其绝对的酌情权而拒绝执行客户指示时，瑞达国际金融控股有限公司将就此尽力通知客户，瑞达国际金融控股有限公司无须指出原因。
+If RUI DA in its absolute discretion declines to accept any instruction from the Client, RUI DA will notify the Client accordingly without the need to specify reasons therefor.
+
+5.5 瑞达国际金融控股有限公司无须就拒绝执行客户指示或其后忽略通知客户而引致客户遭受任何损失、利润损失、损害、责任、成本或开支承担任何责任。
+RUI DA shall not be liable in any way for any loss, loss of profit, damage, liability, cost or expense suffered or incurred by the Client arising out of or in connection with RUI DA declining to act on such instructions or omitting so as to notify the Client.
+
+5.6 瑞达国际金融控股有限公司不保证网络设施的可用性。瑞达国际金融控股有限公司可以在未预先通知客户的 情况下自行中止或限制网络设施的使用，而不影响在中止或限制前瑞达国际金融控股有限公司和客户的权利 和/或义务。瑞达国际金融控股有限公司不会因无法控制的任何事件、行为或遗漏而直接或间接导致的任何损 失或损害承担责任，包括但不限于在向客户提供服务时传输或通讯设施的故障而导致的指令和/或资讯传输的 延误或错误。
+RUI DA does not guarantee the availability of the Web Facility. RUI DA may in its sole discretion without prior notice to the Client suspend or restrict the Web Facility, without affecting the rights and/or obligations of RUI DA and the Client incurred prior to such suspension or restriction. RUI DA shall not be responsible for any loss or damage caused, directly or indirectly, by any events, actions or omissions beyond the control of RUI DA including, without limitation, any delays or inaccuracies in the transmission of orders and/or information due to failure of any transmission or communication facilities in delivering Services to the Client.
+
+5.7 瑞达国际金融控股有限公司作为主事人时，瑞达国际金融控股有限公司可自行决定哪些产品可以由客户与瑞达国际金融控股有限公司进行交易。客户承认，瑞达国际金融控股有限公司所报的买卖差价由市场情况来决定，因此，瑞达国际金融控股有限公司在任何时候都不需对任何产品的买卖差价作出保证。买价与卖价可以变动很快，甚至交易的执行可能不在网络设施所显示的价格完成。客户同意接受瑞达国际金融控股有限公司不时发布的价格是当时最好的价格。
+Where RUI DA is acting as a principal, RUI DA determines in its sole discretion which products to be tradable by the Client with RUI DA, and the Client acknowledges that the size of the Bid-Offer Spread quoted by RUI DA is determined by Market Conditions and therefore RUI DA shall not guarantee at all times the size of the Bid-Offer Spread of any product. Such bid and offer prices may vary in such a fast manner that trades may seem executed not at the advertised prices on the Web Facility, and the Client agrees to accept that such prices as RUI DA quotes from time to time as the best prices then available.
+
+5.8 倘客户能够通过网络设施参阅户口资讯，客户现同意接受以网络设施上显示的户口资料，作为代替以有邮寄邮件或电子邮件方式发送买卖确认和户口结算。客户可以书面形式通知瑞达国际金融控股有限公司随时撤销该项同意。
+Where the Client can access Account information via the Web Facility, the Client hereby consents to accept the posting of such Account information on the Web Facility as delivery of trade confirmation and account statements in
+
+lieu of sending via postal mail or electronic mail.  The Client may revoke this consent at any time upon written notice to RUI DA.
+
+5.9 当瑞达国际金融控股有限公司妥善完成了通讯发放程序后，书面通讯应被视为已经发送。客户倘未能收到瑞达国际金融控股有限公司发送的讯息，不得解除瑞达国际金融控股有限公司在该通讯方面的权利和客户在该通讯方面的义务。客户应定时查看其用于接收瑞达国际金融控股有限公司通信的邮箱、电子邮箱、传真机和其他设备。对因客户未能、延误或疏于检查上述通信来源或设施而形成的任何损失，瑞达国际金融控股有限公司将不负任何责任。
+Written communication is deemed to have been transmitted when RUI DA has duly completed the procedure of release. The Client's failure to receive any communication in writing released by RUI DA shall not relieve RUI DA's right and the Client's obligation with respect to that communication. Clients should require to check their mail, email, facsimile and other equipment for receiving communications from RUI DA. RUI DA shall not be liable for any loss arising from any delay, neglect and failure of such communication sources or facilities for clients.
+
+5.10客户确认：
+Client acknowledges that
+(a) 由瑞达国际发给客户的任何市场建议和信息并不构成任何期货的出售要约或对买入的诱导；
+Any advices, marketing information, news, promotion materials and proposals sent to clients on Futures Commodities by RUI DA will not constitute as an offer or an invitation for sales of Futures Commodities;
+(b) 此类建议和信息，尽管是以从瑞达国际认为可靠的来源获取的信息为基础的，可能是不完整的，而且 可能无法核实；而且
+Notwithstanding, such advices and proposals came from reliable sources, they still can be incomplete and cannot be verified; and
+(c) 瑞达国际不对其给客户的任何信息或交易建议的准确性或完整性作任何陈述，担保或保证，也不对其 准确性或完整性承担任何责任。
+RUI DA will not make any trading comments on any news, information and accuracy assessment given by the client and also will not act as guarantors, provide any guarantee or whatsoever. Moreover, RUI DA will not take any responsibilities or obligations as well.
+
+5.11 客户承认，瑞达国际金融控股有限公司及其董事或雇员向客户传递的任何交易建议和市场讯息并不构成是为 客户达成交易的邀请或请求。
+The Client acknowledges that any trading recommendation and market information communicated by RUI DA and its directors or employees to the Client do not constitute an offer or solicitation for the Client to enter into a transaction.
+
+5.12 当退回邮件，客户同意及时更新其户口资料，并将任何变化在指定小时内通知瑞达国际金融控股有限公司。客户确认，如果由于客户未能提供、更新和/或通知瑞达国际金融控股有限公司有关其户口的最新和准确的资 料而导致邮件无法送达或被退回，瑞达国际金融控股有限公司出于对客户户口安全和完整的考虑可以临时或 永久锁闭或限制其户口。
+When mail is returned, Client agrees to update his account information forthwith and notify any changes to RUI DA within specified time. Client understand that if they fails to provide, update and/or notify RUI DA of their current information about his account, then the mail could not be served or returned. Due to account security, RUI DA may consider temporarily or permanently lock or restrict its account
+
+5.13 如客户同意瑞达国际金融控股有限公司可以电子形式向客户发出任何通知、成交单据、交易确认、定期结单及通讯（如有）（「电子通讯」），则客户同意接受及承担有关发送及接收电子通讯的所有风险，其风险包括但不限于：
+Where the Customer has agreed that RUI DA may send any notice, contract notes, confirmations, periodic statements and communication (if any) to the Customer in electronic form (“Electronic Communication”), and the Customer agrees to accept and bear all the risks associated with the sending and receiving of the Electronic Communication, including but not limited to the risks as follows:
+(a) 透过互联网或其他电子媒介传递、发送及接收的电子通讯在本质上是不可靠的媒介，可能因互联网不 可预测的交通阻塞、所使用媒体的公众性质及其他因素，导致干扰、传输中断、延迟传输或错误资料 传输；
+communication, sending and receiving of the Electronic Communication conducted through the internet or other electronic media is, inherently an unreliable medium and may be subject to interruption, transmission blackout, delayed transmission or incorrect data transmission due to, where applicable, unpredictable traffic congestion, the public nature of the media used or other reasons;
+(b) 透过互联网或其他电子媒介传递、发送及接收的电子通讯可能未被执行或被延误；及
+communication sending and receiving of the Electronic Communication conducted through the internet or other electronic media may not be executed or may be delayed; and
+(c) 在符合瑞达国际金融控股有限公司于私隐条例的义务下，透过互联网或其他电子媒介传递、发送及接 收的个人资料可能被未经授权的第三方获取。
+subject to the obligations of RUI DA under the PDPO, communication and sending and receiving of personal data through the internet or other electronic media may be accessed by unauthorized third parties;,
+而且客户确认及同意，瑞达国际金融控股有限公司、其联属人及相关人士均无须就以上情况招致或有关的后
+果对客户或任何其他人士承担任何责任或负责，并特此放弃所有向瑞达国际金融控股有限公司、其联属人及/或有关人士就上述事宜作出申索的权力。
+and the Customer acknowledges and agrees that neither RUI DA, nor its Affiliates, nor the Relevant Persons will assume any liability or responsibility to the Customer or to any other person for any consequences arising therefrom or in connection therewith and hereby waives all the rights of making any claims against RUI DA, its Affiliates and/or the Relevant Persons in connection therewith.
+
+5.14 尽管有本协议其他任何条款的规定，在不限于以下情况下, 瑞达国际金融控股有限公司可能不时通过其他适 当渠道（包括但不限于通过瑞达国际金融控股有限公司的网页或客户的网上交易终端）就若干事项通知客 户：
+Notwithstanding any other provisions of this Agreement, in relation to but not limited to the following, RUI DA may also notify the Customer through other channels as appropriate from time to time, including but not limited to via the website of RUI DA or through the Customer?s online trading terminal:
+(a) 适用的交易规则、瑞达国际金融控股有限公司的保证金要求、交易费用、其他种类的交易和结算资
+料、交易制度、报价制度或网页的更改或修改；及
+changes or amendments to applicable trading rules, RUI DA?s Margin requirements, transaction fees, other types of trading and settlement information, trading system, quote system or website; and
+(b) 具体关于客户的资料，例如交易结算报告、保证金追收通知、强制清算通知、保证金的个别变更通知 及/或任何种类的交易和结算资料。
+information specifically related to the Customer, such as transaction settlement reports, notices of margin calls, notices of forced liquidation, notices of individual changes in Margin and/or any type of transactional and settlement information.
+
+6.保证金、付款和交付 Margin, Payments and Delivery
+
+6.1 在不损害法律赋予瑞达国际金融控股有限公司的一般留置权、抵销权或类似权利下，并且除了这些权利外，瑞达国际金融控股有限公司及其联属人以任何形式无论在何处拥有的客户的所有财产，不管用于何种目的 (包括保管) ，第一及优先留置权应归于瑞达国际金融控股有限公司。瑞达国际金融控股有限公司有权出售该等财产 (瑞达国际金融控股有限公司兹获授权，作出售该等财产有关的一切事项) ，并可将所得款项用于抵销及偿还客户责任，不管其他任何人是否对该等财产有任何权益，或瑞达国际金融控股有限公司曾否就有关财产垫支，亦不管客户在瑞达国际金融控股有限公司设立多少个户口。
+Without prejudice and in addition to any general lien, right of set-off or similar right to which RUI DA may be entitled by law, all of the Client's properties held anywhere by RUI DA and the Affiliates in any form for any purposes, including safekeeping, shall be subject to a first and paramount lien in the favour of RUI DA. RUI DA shall also have the right to sell such properties (and RUI DA is authorized to do all such things necessary in connection with such sale) and utilize the proceeds to offset and discharge the Client's Liabilities, regardless of whether any other person is interested in or RUI DA has made advances in connection with such property, and irrespective of the number of accounts the Client may carry with RUI DA.
+
+6.2 以结算货币为币值的保证金数目，由瑞达国际金融控股有限公司自行决定，将在任何时候都由客户维持在他的所有户口中。该保证金要求应由瑞达国际金融控股有限公司以书面形式不时作出规定。倘客户以结算货币外的其他货币将保证金存入瑞达国际金融控股有限公司，保证金的数目将由瑞达国际金融控股有限公司按市场条件决定的汇率转换成结算货币。如果买卖在交易所进行，瑞达国际金融控股有限公司可以要求收取高于该交易所和/或其结算所规定的保证金。倘瑞达国际金融控股有限公司要求追加保证金，客户必须在瑞达国际金融控股有限公司规定的时间期限内在瑞达国际金融控股有限公司存入该追加保证金。瑞达国际金融控股有限公司可以自行并且在任何时候都可以更改保证金要求。以往的保证金要求不会确立任何先例，这些要求一旦被更改，就可适用于受该更改影响的现存交易和新交易。
+The margin amount in settlement currency is determined by RUI DA and will be fully maintained by the Client at his accounts. The margin requirements shall be made by RUI DA in writing from time to time. If margin from Client deposit into RUI DA in other settlement currencies, the amount of margin will be converted into settlement currency by RUI DA at market rate in according by market. If transaction is made on Exchange, RUI DA may request a margin higher than that provided by the Exchange and/or Clearing House. In the event that RUI DA requires additional margin, Client must deposit additional margin to RUI DA within the time limit prescribed.  RUI DA may change the margin requirements at any time. Once changed, previous margin requirements do not establish and these requirements, and its affected to apply existing transactions and new transactions.
+
+6.3 如果客户的保证金未能达到要求，瑞达国际金融控股有限公司可全权实施任何可保障其利益的行为。该行为 包括但不限于 :
+Where the Client fails to meet a Margin requirement, RUI DA shall have an absolute discretion to carry out any acts as it deems fit to protect its interest. Such acts include, but are not limited to:
+(a) 将瑞达国际金融控股有限公司代客户持有的任何未平仓合约平仓，而不需客户同意，和/或
+closing out the contracts which RUI DA entered into with or on behalf of the Client without the Client's consent; and/or
+(b) 取消任何或所有未完成的限价盘或任何在客户指示下作出之承诺。
+canceling any or all outstanding orders or any commitments instructed by the Client.
+
+任何此类行为均对客户有约束力，正如客户已给予瑞达国际金融控股有限公司正确指示。 在进行该类行为 时，客户同意瑞达国际金融控股有限公司对客户没有任何性质的义务或责任来减少或消除客户的损失。
+Any such acts shall be binding upon the Client as if proper instructions to effect the same have been duly given to RUI DA by the Client, and the Client irrevocably accepts that in carrying out such acts, RUI DA owes no duty or obligation of whatever nature to the Client to minimize or eliminate the Client's loss.
+
+6.4 瑞达国际金融控股有限公司兹获授权将任何客户户口内的现金结余，存储于瑞达国际金融控股有限公司认为合适的金融机构(包括任何银行)。瑞达国际金融控股有限公司有权保留该等存款的任何利益。
+RUI DA is authorized to deposit any monies and other properties in any accounts of the Client with any such financial institution (including with Bank) as RUI DA shall think fit, and RUI DA shall be entitled to retain any benefits resulting from such deposit.
+
+6.5 瑞达国际金融控股有限公司收到客户存入客户户口的所有款项、证券或其他财产都应由瑞达国际金融控股有限公司以受托人身份持有并与瑞达国际金融控股有限公司本身的资产分开。这些资产不得成为瑞达国际金融控股有限公司当破产或结业之部份资产，而应由瑞达国际金融控股有限公司的临时清盘人、清盘人或相似的官员尽快将该等财产归还客户。
+All monies or other property received by RUI DA from the Client for the account of the Client shall be held by RUI DA as trustee and segregated from RUI DA's own assets. These assets so held by RUI DA shall not form part of the assets of RUI DA for insolvency or winding up purposes but shall be returned to the Client promptly upon the appointment of a provisional liquidator, liquidator or similar officer over all or any part of RUI DA's business or assets.
+
+6.6 客户可以书面形式通知瑞达国际金融控股有限公司从户口提取款项的意向。不管存入瑞达国际金融控股有限 公司的保证金是何种类货币，客户以结算货币或其他货币提取 。瑞达国际金融控股有限公司会不时向客户公 布提款所需的通知期限。
+The Client may make withdrawals from the Account by giving RUI DA sufficient notice in writing of his intention to withdraw. Notwithstanding the currency in which the Margin was deposited into RUI DA, the Client can withdraw in Settlement Currency or other currency. The minimum notice period shall be made known to the Client from time to time.
+
+7.交易 Transaction
+
+7.1 客户可以口头或书面形式向瑞达国际金融控股有限公司提供交易指示。客户向瑞达国际金融控股有限公司所作的任何指示，只会在瑞达国际金融控股有限公司以口头或书面形式承认收到该指示时才被视为已被瑞达国际金融控股有限公司收到。如只有客户的传输，而没有瑞达国际金融控股有限公司的口头或书面回应，则该指示不构成瑞达国际金融控股有限公司和客户之间的有效指示。
+The Client shall provide RUI DA with instructions orally or in writing. Any instruction made by the Client to RUI DA shall only be deemed to have been received by RUI DA when such instruction has been acknowledged by RUI DA orally or in writing. The mere transmission of an instruction by the Client shall not constitute a valid instruction between RUI DA and the Client.
+
+7.2 客户应对客户户口代码的保密性、安全性和使用承担全部责任。客户应就使用客户户口代码所下的指令和执行的交易对瑞达国际金融控股有限公司负责，即使该使用可能未经授权或不合法的。客户同意，倘遇下列情况，应立刻通知瑞达国际金融控股有限公司  :
+The Client shall be wholly responsible for the confidentiality, security and use of the Client's Account Codes. The Client shall be liable to RUI DA for orders placed and trades executed with the use of the Client's Account Codes even if such use may be unauthorized or wrongful. The Client agrees to notify RUI DA immediately when:
+(a) 客户已发出指示，但未收到该指示的准确书面确认 ;
+he has placed an instruction but has not received an accurate acknowledgement in writing; 
+(b) 客户收到书面确认，但有关指示并非客户所发出  ;
+he has received an acknowledgement of an instruction in writing that he did not place; 
+(c) 客户发现有人未经授权进入其户口 ; 和/或
+he becomes aware of any unauthorized access to his Account; and/or 
+(d) 客户使用瑞达国际金融控股有限公司服务时遇到困难
+he has difficulties in accessing RUI DA's Services.
+
+7.3 当瑞达国际金融控股有限公司担任主事人，向客户提供买卖价格时，瑞达国际金融控股有限公司按其提供买卖的价格执行客户的交易指示的责任只限于瑞达国际金融控股有限公司与客户订定的交易额上限。
+Where RUI DA is acting as a principal and giving out bid and offer prices to the Client, the obligation of RUI DA to execute the Client's trade instruction at the prices given by RUI DA shall be limited to an amount specified and advised by RUI DA to the Client.
+
+7.4 如果瑞达国际金融控股有限公司所提供的买卖价格有误，瑞达国际金融控股有限公司将不对由此造成的错误负责，并保留对相关户口作出必要更正或调整的权利。任何源于上述报价错误的争端将按照错误时公平市场价值解决。并同意瑞达国际金融控股有限公司无须因未能符合客户指令的任何条件而导致的损失承担任何责任，亦无须为因按本协议执行任何交易而导致的损失负责，除非损失是因瑞达国际金融控股有限公司的任何雇员或代理人故意违约造成的。
+RUI DA will not be liable for any errors to the bid and offer prices caused by them. RUI DA reserves rights to make the necessary corrections or adjustments to the relevant accounts. Any dispute arising from such bid and offer prices error will be resolved with respect to the fair market price at the time the errors occurred. RUI DA shall not be liable for any loss failure resulting from any conditions. RUI DA shall not be liable for any loss resulting from the execution of any transaction under this Agreement, unless its loss is caused defaults by employee or agent of RUI DA.
+
+7.5 行使期权: 客户明白一些交易所和结算公司对提交行使指令设有截止时间，而且在截止时间之前还没有发出行使指令，则期权会变得毫无价值。客户也理解，除非另有指令，某些交易所和结算公司将会自动行使某些「价内」期权。客户确认对其行使或阻止行使(视情况而定)期权合约的行为承担完全的责任;除非收到客户的明确指令，瑞达国际金融控股有限公司无须对期权合约采取任何行为，包括但不限于在到期日之前行使有价值的期权或阻止对期权自动行使的任何行为。客户进一步确认，瑞达国际金融控股有限公司设立的行使截止时间可能早于交易所和结算公司设立的截止时间。
+Exercise Option: Clients should understand some exchanges and clearing house have a cut-off time for submission of their exercise instructions. If such instructions have not been received before the cut-off time, their option contracts will become worthless.  However, clients also need to understand that their option contracts will be automatically exercised by some of the exchanges and clearing houses if their contracts are「in the money」unless otherwise directed. Clients should recognize that it is their responsibilities whether they like to exercise their option contracts or not (depending on circumstances). RUI DA will not act on behalf of their clients to do anything including exercising, preventing an automatic take up or whatsoever unless receiving instructions from clients. Clients should also recognize that the cut-off time for exercising an option contract by RUI DA is earlier than that provided by relevant exchanges and clearing houses.
+
+7.6 瑞达国际金融控股有限公司有权按其绝对酌情权（但并不受约束）根据任何指示对任何交易所、结算所及╱或任何其他人士采取任何行动，追讨关于该等交易所或结算所或其他人士未能根据瑞达国际金融控股有限公司代客户所订立之期货合约或期权合约缴付的任何款项及╱或交收的任何商品数量，但若瑞达国际金融控股有限公司采取该等行动，客户应全数弥偿瑞达国际金融控股有限公司就其采取该等行动所引致或与其有关之一切开支、索偿、追收、赔偿及费用（包括弥偿全数法律费用）。
+RUI DA shall be entitled, in its absolute discretion, but shall not be bound, to act on any Instruction to take any action whatsoever or howsoever against any exchange, clearing house and/or any other person in respect of any failure by such exchange, clearing house and/or other person to make any payment or delivery of any amount or quantity of any monies and/or Commodities in respect of any Futures Contract or Option Contract entered into by RUI DA on behalf of the Customer provided that if any such action is taken by RUI DA, the Customer shall indemnify RUI DA in respect of all costs, claims, demands, damages and expenses (including legal costs on a full indemnity basis) arising out of or in connection with the taking of such action.
+
+7.7 瑞达国际金融控股有限公司有权以电子监察或记录自电话、电子途径或其他方式作出之所有指示。客户并同 意，瑞达国际金融控股有限公司可以在保留期后摧毁这些记录。
+RUI DA has the right to electronically monitor or record all instructions placed through telephone, Electronic Means or otherwise. The Client agrees that RUI DA will have the right to destroy such recordings after the retention period.
+
+7.8 客户同意,在不违反证券及期货条例或任何适用条例下，瑞达国际金融控股有限公司可执行与客户有关期货合 约交易买卖盘相反的持仓，不论是瑞达国际金融控股有限公司或其联属人自行交易或代其他客户交易。
+The Client consents that RUI DA may, subject to the provisions of the SFO or any applicable law, take the opposite position to the Client's order in relation to any Dealing in futures contracts, whether on RUI DA's own account or for the account of the Affiliates or other clients of RUI DA.
+
+7.9 客户可能会受到因证监会根据有关的规章或因任何其他原因为消减或限制瑞达国际金融控股有限公司处理客 户未平仓合约的交易能力而采取的行动影响，并且在这些情况下，客户可能被要求减少其于瑞达国际金融控 股有限公司的未平仓交易或将其平仓。
+The Client may be affected by any curtailment of, or restriction on, the capacity of RUI DA to trade in respect of open positions as a result of action taken by SFC under applicable rules and regulations or for any other reason, and that in such circumstances, the Client may be required to reduce or close out his open positions with RUI DA.
+
+7.10 客户确认并同意，瑞达国际金融控股有限公司受期交所规则所约束，在期交所认为客户所累积的仓盘正在或 可能会对任何一个或多个由期交所成立及╱或营运的特定的市场造成损害或正在或可能会对某个或多个由期 交所成立及╱或营运的市场（视乎属何情况而定）的公平及有秩序的运作产生不良影响，该等规则容许期交所采取行动，限制持仓的数量或规定可代表客户将合约平仓。
+The Customer acknowledges and agrees that RUI DA shall be bound by the HKFE Rules which permit HKFE to take steps to limit the positions or require the closing out of contracts on behalf of the Customer if, in the opinion of HKFE, the Customer is accumulating positions which are or may be detrimental to any particular market or markets established and/or operated by HKFE or which are or may be capable of adversely affecting the fair and orderly operation of any market or markets established and/or operated by HKFE as the case may be.
+
+7.11 倘若客户在任何时候就进行与期货合约或期权合约有关的交易而在瑞达国际金融控股有限公司以外的期交所 参与者开立一个或多个户口，及倘若这些户口的未平仓合约总额达到期交所委员会规定的「大额未平仓合 约」标准，客户应即时向期交所报告该「大额未平仓合约」，并向瑞达国际金融控股有限公司或期交所（视 属何情况而定）提供其所规定的与该「大额未平仓合约」有关的资料（包括客户及最终实益拥有人的名称， 或（如属公司或团体）该公司或团体股本的最终实益拥有人个人的名称，包括透过代名人或信托形式持有利 益的受益人），及向瑞达国际金融控股有限公司或期交所（视属何情况而定）提供其所要求的任何其他资料（视属何情况而定）。
+If the Customer shall at any time open one or more accounts with participants of HKFE other than RUI DA for the purpose of carrying out transactions relating to Futures Contracts or Option Contracts and if the open positions in such accounts in aggregate amount to a “Large Open Position” as determined by the board of the HKFE, the Customer shall report to HKFE immediately of such “Large Open Position” and provide RUI DA or HKFE (as the case may be) with such information as RUI DA or HKFE (as the case may be) may require in connection therewith (including the name of the Customer and of the Ultimate Beneficiary or, in the case of a company or body corporate, of the individuals who are the ultimate beneficial owners of the share capital of the company or body corporate, including a beneficiary holding an interest through a nominee or trust of such “Large Open Position”) and also provide RUI DA or HKFE (as the case may be) with any other information as may be required by RUI DA or HKFE (as the case may be).
+
+7.12 客户应履行所有相关市场及交易所（包括但不限于《证券及期货（合约限量及须申报的持仓量）规则》)适用 的所有通报要求，及不应超过根据相关市场及交易所订明关于合约限量及须申报的持仓量规则所载之有关期 货类别及种类的限额（如有）。客户承认瑞达国际金融控股有限公司不应（适用法例或法规要求除外）为任 何客户的交易通报、申报或汇报负上责任（包括根据《证券及期货条例》第 XV 部或相等法例规定的上报（如适用）），并承诺其将不会依赖瑞达国际金融控股有限公司解除其根据适用法例或法规规定的交易通报、申报或汇报责任。
+The Customer shall comply with all applicable notification requirements established by the relevant market or exchange (including, without limitation, those applicable under the Securities and Futures (Contracts Limits and Reportable Positions) Rules) and shall not exceed the prescribed limit for the relevant Futures class and type in accordance with the contract limits and reportable position rules established by the relevant market or exchange, if any. The Customer acknowledges that RUI DA shall not (except to the extent required by Applicable Laws and Regulations) be responsible for any of the Customer?s transaction notification, filing or reporting obligations (including, where applicable, any filings required pursuant to Part XV of the Ordinance or equivalent legislation) and undertakes that he shall not rely on RUI DA to discharge his transaction notification, filing or reporting obligations pursuant to Applicable Laws and Regulations.
+
+7.13 客户同意按瑞达国际金融控股有限公司不时通知客户的利率及其他条款就所有逾期未付款项支付利息 (包括 客户被裁定所欠债务之前所引起的利息)。如果客户指令瑞达国际金融控股有限公司进行任何以外币标价的期 货交易，则(i)任何因该外币的汇率波动所形成的损益完全归于客户户口，风险由客户承担；(ii)保证金应以瑞 达国际金融控股有限公司自主决定的币种和金额来记录；而且(iii) 瑞达国际金融控股有限公司获授权可以自 主决定以货币市场当时报价为基础而确定的汇率将户口中的资金在原币种和上述外币之间进行转换。如果无 论出于何种目的，客户被要求将其欠瑞达国际金融控股有限公司的资金转换成原先到期债务所用币种之外的 货币，则客户应向瑞达国际金融控股有限公司支付额外的金额以保证瑞达国际金融控股有限公司收到的已转 换后的金额等同于未转换前应收的金额。
+The Client agrees to pay interest on all overdue balances (including interest arising before a judgment debt is obtained against the Client) at such rate and on such other terms as RUI DA has notified the Client from time to time. If Client requests RUI DA to carry out any futures trading in foreign currencies, (i) any profit or loss arising in exchange rate of foreign currency fluctuations is respond to the account and all risk is borne by Client; (ii) the currency margin shall be recorded by RUI DA; and (iii) RUI DA have right to decide convert the deposit in the account between original currency and foreign currency at the exchange rate determined on the basis of the prevailing quotation by market. In any event, Client is required to convert its outstanding amount to RUI DA into currency of the original maturity, the Client shall pay additional amounts to RUI DA to ensure the converted amount received is equivalent to the amount due before the conversion to RUI DA.
+
+7.14 在香港期交所外进行的交易：如果客户希望在香港期交所以外的市场上进行任何期货合约等衍生品的交易， 则此类交易须受此等市场（而非香港期交所市场）的规则和条例所管制，由此客户在这些交易中所得到的保 护水准和种类可能明显不同于香港期交所规则所提供的保护水准和种类。客户应主动了解此等市场的规则和 条例，不得以不知情、不了解为理由而免除此等市场交易规则和条例的约束。瑞达国际金融控股有限公司会 尽力知会客户，但无论如何无需因客户由于此等市场交易规则和条例或遗漏向客户知会而导致的任何利润、 损失、费用、赔偿或开支而负任何责任。
+Transactions out of Hong Kong Futures Exchange: If the Client wishes to trade in derivatives, such as futures contracts, other than the Hong Kong Futures Exchange market, such transactions are subject to such market (not the Hong Kong Futures Exchange Market). The protection offered to the Client in such transactions may be significantly different from the level and type of protection provided by the Rules of Hong Kong Futures Exchange (HKFE). Client shall take the initiative to understand the rules and regulations of these markets and shall not be relieved of such market trading rules and regulations on the grounds of ignorance. RUI DA will endeavor to inform the Client but in any event shall not be liable for any profits, losses, costs, damages or expenses resulting from any omission of giving notice to the Client of such market trading rules and regulations.
+
+7.15 客户明白瑞达国际金融控股有限公司不会接受任何第三方指令，除非客户已正式签署并递交一有效的授权 书，明确授权一署名的第三方代表其发出交易指令。客户同意对瑞达国际金融控股有限公司因依赖第三方代 表客户发出的指令而导致的争议、损失、费用、开支以及其他索赔负责。如果客户决定雇用第三方为其发出 交易指令，客户同意向瑞达国际金融控股有限公司提供该指定的第三方准确真实的身份认定和个人资料。
+Client understands that RUI DA will not accept any third party instructions unless the Client has duly signed and submitted a valid power of attorney to expressly authorized third party to lodge trade instructions on its behalf. Client agrees to be responsible for any disputes, losses, charges, expenses and other claims arising out of the instructions issued by RUI DA on behalf of the Client. If Client decides to third party to lodge trade instructions, the Client agrees to provide RUI DA with real identity and personal information of designated third party.
+ 
+
+8.费用 Charges
+
+8.1客户应按要求支付因客户所使用的服务而欠瑞达国际金融控股有限公司和任何其他各方(包括但不限于管理 机构、交易所、结算所、政府部门和瑞达国际金融控股有限公司的代理)招致的经纪费用、佣金、费用、关 税、税收、征收的费用、利息以及其他一切费用。客户特此授权瑞达国际金融控股有限公司从户口中扣除上 述费用的任何金额。瑞达国际金融控股有限公司应不时向客户提供有关上述费用的说明(以及付款原因)。 
+The Client shall pay on demand such brokerage, commission, fee, duty, tax, levy, interest and all other charges incurred by the Client to RUI DA and all other parties (including without limitation, regulators, exchanges, clearing houses, governments and agents of RUI DA) arising out of usage of Services, and the Client hereby authorizes RUI DA to withdraw the amount of any of such aforesaid charges from the Account A description of the charges (and the basis for payment) payable by the Client to RUI DA shall be provided to the Client from time to time.
+
+8.2 客户欠付瑞达国际金融控股有限公司的款债将按照瑞达国际金融控股有限公司不时通知客户的息率收取利 息。该利息由瑞达国际金融控股有限公司自行确定，并由瑞达国际金融控股有限公司根据市场条件不时通知客户。
+Clients will be charged by interest on their debts owed to RUI DA. It is at RUI DA's discretion on the rate of interest depending on market conditions which will be notified to the clients from time to time.
+
+8.3 瑞达国际金融控股有限公司就代客户持有的任何现金结余所赚取或收取的任何利息应绝对属于瑞达国际金融 控股有限公司所有。
+Any interest earned or received on any credit cash balance held by RUI DA on behalf of the Customer shall belong to RUI DA absolutely.
+
+9.终止 Termination
+
+9.1 本协议可由任何一方以书面通知对方终止，唯客户只可于在瑞达国际金融控股有限公司确实接获有关通知后 的最少两个营业日后方视作终止本协议，有关终止不得影响瑞达国际金融控股有限公司于本协议终止前应有之任何交易，且不会影响瑞达国际金融控股有限公司于终止前应有之任何权利、权力或责任。瑞达国际金融 控股有限公司可以依在此之前提及过的程序将上述所提及的户口清盘或将户口转让给经客户与瑞达国际金融 控股有限公司同意的经纪或交易商。
+This Agreement may be terminated by either party hereto by written notice on the other party provided that this Agreement shall not be deemed to be terminated by the Client until 2 business days after actual receipt by RUI DA of such notice and the termination shall not affect any Transaction entered into by RUI DA prior to the termination of this Agreement and shall be without prejudice to any accrued rights, power or duties of RUI DA prior to the termination. RUI DA may liquidate the Account as herein before provided or transfer the Account to such broker or dealer as agreed by the Client and RUI DA.
+
+9.2 在关闭户口时，瑞达国际金融控股有限公司应将户口里所剩下的正结余偿还给客户或客户应将户口里的任何 负结余偿还给瑞达国际金融控股有限公司。客户应立即向 瑞达国际金融控股有限公司结清所有未清还的债务，连同所有收取的费用  (包括合理的法律费用)。
+Upon closure of the Account, RUI DA shall repay the Client any positive balance left in the Account or the Client shall repay RUI DA any negative balance in the Account. The Client shall promptly settle all liabilities outstanding to RUI DA, together with all costs of collection (including reasonable legal fees).
+
+9.3当出现以下任何违约事项：
+Upon the happening of any one of the following events, each an “Event of Default”:
+
+(a) 如果瑞达国际金融控股有限公司认为客户已经违反或未能履行本协议的任何条款；
+if, in RUI DA?s opinion, the Customer has breached or failed to perform any terms of the Agreement;
+(b) 客户向瑞达国际金融控股有限公司作出的任何声明、保证或承诺在作出时或在其后在任何方面变成不 正确；
+if any representation, warranty or undertaking given by the Customer to RUI DA was when given or hereafter becomes incorrect in any respect;
+(c) 客户无法按照瑞达国际金融控股有限公司要求支付或逾期未能向瑞达国际金融控股有限公司或其集团 公司成员支付任何存款或应支付款项、或未能向公司提交任何文件或交付任何有价证券；
+the Client fails to effect any payment, overdue payment, placing deposits, guarantee or any other securities collateral to RUI DA or RUI DA?s Affiliates.
+(d) 当第三方向客户作出破产呈请，或就客户的自愿或强制清盘已作出命令或已通过决议案，或已召开会议审议客户应否进行清盘的决议案，或客户为其债权人的利益作出或建议任何债务安排或债务重整；
+a petition for bankruptcy is filed against or an order is made or resolution passed for the voluntary or compulsory winding up of the Customer, or a meeting is convened to consider a resolution that the Customer should be so wound up, or the Customer makes or proposes any arrangements or compositions for the benefit of any of its creditors;
+(e) 若客户与任何非其联属人合并或结合或出售其所有或实质部分业务或资产；
+if the Customer merges or consolidates with any person that is not an affiliate of the Customer or sells all or a substantial portion of its business or assets;
+(f) 客户于瑞达国际金融控股有限公司或其联属人开设的户口被发出任何财物扣押令、执行令或相应的手 令或命令；
+any warrant or order of attachment, execution or distress or equivalent order is issued against any of the accounts of the Customer with RUI DA or any of RUI DA?s Affiliates;
+(g) 任何第三方就户口中的任何期货合约、期权合约或款项或其他资产提出申索；
+any third party asserts a claim in respect of any Futures Contract, Option Contract or monies or other assets in the Account;
+(h) 瑞达国际金融控股有限公司因客户未能维持保证金规定或其他原因而认为对保障瑞达国际金融控股有
+限公司的利益为必需的；
+RUI DA considers it necessary to protect the interests of RUI DA because of the Customer?s failure to maintain the Margin requirements or otherwise;
+(i) 瑞达国际金融控股有限公司认为是遵守适用法律法规所必须的；
+RUI DA considers it necessary to comply with Applicable Laws and Regulations;
+(j) 瑞达国际金融控股有限公司认为客户在业务、财务或其他情况或环境方面出现重大不利转变，可能影 响客户履行本协议的责任的能力；
+in RUI DA?s opinion, there occurs any material adverse change in the business, financial or other conditions or circumstances of the Customer which may prejudice its ability to perform its obligations under the Agreement;
+(k) 客户维持户口或履行本协议责任成为违法；或
+it shall become unlawful for the Customer to maintain the account(s) or to perform any of its obligations under the Agreement; or
+(l) 如客户为个人，而其身故或精神上无行为能力。
+where the Customer is an individual, he dies or otherwise become mentally incapacitated;, 则客户欠付瑞达国际金融控股有限公司的所有款项应即时到期并须支付，而瑞达国际金融控股有限公司有权 及可其按绝对酌情权决定，在毋须给予通知或要求及在不会影响其拥有的任何其他权利或补救的情况下，即时：
+all amounts owing by the Customer to RUI DA shall become immediately due and payable and RUI DA shall be entitled and may, in its absolute discretion, without notice or demand and without prejudice to any other rights or remedies available to RUI DA, forthwith to:
+(i) 取消任何仍未执行的期货或期权买卖指示；
+cancel any outstanding Instructions for the purchase or sale of Futures or Options;
+(ii) 将瑞达国际金融控股有限公司代客户持有的任何未平仓合约平仓并将根据有关期货合约或期权合约进 行商品交收；
+close out any open positions held by RUI DA on behalf of the Customer and make or take delivery of Commodities pursuant to the relevant Futures Contract or Option Contract;
+(iii) 借入或购买任何为客户于任何未平仓期货合约下用作交收所需的商品；
+borrow or purchase any Commodity required to be delivered under any open Futures Contract on behalf of the Customer;
+(iv) 行使瑞达国际金融控股有限公司代客户持有的任何期权；
+exercise any Option held by RUI DA on behalf of the Customer;
+(v) 出售或以瑞达国际金融控股有限公司认为恰当的其他方式处置所有或任何部份保证金或其他瑞达国际 金融控股有限公司代客持有的非现金资产；及╱或
+sell or otherwise dispose of in such manner as RUI DA thinks fit all or any part of the Margin or any other assets held by RUI DA on behalf of the Customer which are not in the form of cash; and/or
+(vi) 行使其在本协议之下的任何权利。
+exercise any of its rights under the Agreement.
+
+9.4 瑞达国际金融控股有限公司没有义务向客户交付任何金额的基础商品或就任何期货合约或期权合约向客户交 付任何款项，直至客户关于任何此等合约或不论如何根据协议的条款欠瑞达国际金融控股有限公司的所有款 项和债项已经了结或清还至瑞达国际金融控股有限公司满意的程度为止。
+RUI DA shall not be obliged to deliver to the Customer any amount of the underlying Commodity or any money to the Customer in respect of any Futures Contract or Option Contract until all sums due from and liabilities of the Customer to RUI DA in respect of any such contract or otherwise howsoever in accordance with the terms of the Agreement have been satisfied or discharged to the satisfaction of RUI DA.
+
+9.5 在瑞达国际金融控股有限公司采取第 9.3 条中列出的任何行动后，瑞达国际金融控股有限公司将在可行的情 况下尽快通知客户。
+ 
+After RUI DA has taken any action referred to in Clause 9.3, RUI DA will give notice to the Customer as soon as practicable.
+
+10.争议 Dispute
+
+10.1尽管本条款及条件第 14 条的规定，若凡涉及瑞达国际金融控股有限公司与客户之间的任何争议，如客户提 出要求，瑞达国际金融控股有限公司同意依照《证券及期货规则》将争议提交仲裁。
+Notwithstanding clause 14 of these Terms and Conditions, in relation to any dispute between RUI DA and the Client, RUI DA should, if the Client so requires, agree to refer the dispute to arbitration in accordance with the Securities and Futures Rules.
+
+11. 关于个人资料(私隐)条例(私稳条例)的客户通知
+Circular to Clients relating to The Personal Data (privacy) Ordinance (“The Ordinance”)
+
+11.1 客户在申请开立户口、延续户口及建立或延续信贷便利服务时，要不时向瑞达国际金融控股有限公司提供有 关的资料。
+From time to time, it is necessary for clients to supply RUI DA with data in connection with the opening or continuation of accounts and the establishment or continuation of credit facilities.
+
+11.2 若未能向瑞达国际金融控股有限公司提供所需资料会导致瑞达国际金融控股有限公司无法开立或延续户口或 建立或延续。
+Failure to supply such data may result in RUI DA being unable to open or continue accounts or establish.
+
+11.3 在客户与瑞达国际金融控股有限公司的正常业务往来过程中，瑞达国际金融控股有限公司亦会收集客户的资 料。
+It is also the case that data collected from clients in the ordinary course of the continuation of the business relationship.
+
+11.4 客户的资料将可能会用于下列用途 :
+The purposes for which data relating to a client may be used are as follows: 
+(a) 为提供服务和信贷便利给客户之日常运作  ;
+the daily operation of the services and credit facilities provided to clients; 
+(b) 作信贷检查 ;
+conducting credit checks;
+(c) 协助其他金融机构作信贷检查 ;
+assisting other financial institutions to conduct credit checks; 
+(d) 确保客户的信用维持良好 ;
+ensuring ongoing credit worthiness of clients; 
+(e) 为客户设计信贷便利服务或有关产品 ;
+designing credit facilities or related products for clients' use; 
+(f) 宣传信贷便利服务或有关产品 ;
+marketing credit facilities or related products;
+(g) 确定瑞达国际金融控股有限公司对客户或客户对瑞达国际金融控股有限公司的债务   ; determining the amount of indebtedness owed to or by clients;
+(h) 向客户及为客户提供担保或抵押的人士追收欠款  ;
+collection of amounts outstanding from clients and those providing security for clients' obligation; 
+(i) 根据瑞达国际金融控股有限公司须遵守的规则、条例及法例要求作出披露 ; 和/或
+to make disclosure under the requirements of any rule, regulation or law binding on RUI DA; and/or (j) 与上述有关的用途。
+purposes relating thereto.
+
+11.5 瑞达国际金融控股有限公司会把客户的资料保密，但瑞达国际金融控股有限公司可能会把有关资料提供给    : Data held by RUI DA relating to a client will be kept confidential but RUI DA may provide such information to:
+(a) 任何代理人、承包商,或提供行政、电讯、电脑、支付、或其他和瑞达国际金融控股有限公司业务运作
+有关的服务之第三者服务供应人 ;
+any  agent,  contractor  or  third  party  service  provider  who  provides  administrative,  telecommunications, computer, payment or other services to RUI DA in connection with the operation of its business;
+(b) 任何其联属人 ;
+any of the Affiliates;
+(c) 任何对瑞达国际金融控股有限公司有保密责任的人，包括对瑞达国际金融控股有限公司有保密资料承 诺的专业人士及代理人 (包括律师、会计师及收帐代理等) ;
+any other person under a duty of confidentiality to RUI DA including professionals and agents (including lawyers, accountants and debt collection agents) who have undertaken to keep such information confidential;
+(d) 任何和客户已有交易或计划有交易的金融机构  ;
+any financial institution with which the client has or proposes to have dealings;
+(e) 任何瑞达国际金融控股有限公司的实际或建议受让人或参与人或附属参与人或瑞达国际金融控股有限 公司对客户的权利的受让人 ; 和/或
+any actual or proposed assignee of RUI DA or participant or sub-participant or transferee of RUI DA's rights in respect of the client; and/or
+(f) 任何瑞达国际金融控股有限公司有责任向其他政府或监管机构披露之该等资料。
+any other governmental or regulatory authorities to which RUI DA is under a duty to disclose such data.
+
+11.6 瑞达国际金融控股有限公司可将其收集之任何个人资料与香港或海外之政府团体、其他监管机构、公司、机 构或个人收集之资料相对、比较、转移或交换以作为核实有关资料之用途。
+RUI DA may match, compare, transfer or exchange any personal data collected by it with the data collected by government bodies, other regulatory authorities, corporations, organizations or individuals in Hong Kong or overseas for the purposes of verifying those data.
+
+11.7 根据私隐条例中的条款，客户 :
+Under and in accordance with the terms of The Ordinance, client :
+(a) 有权审查瑞达国际金融控股有限公司是否持有他的资料及有权查阅有关的资料   ;
+has the right to check whether RUI DA holds data about him and the right of access to such data; (b) 有权要求瑞达国际金融控股有限公司改正有关他不准确的资料 ; 和
+has the right to require RUI DA to correct any data relating to him which is inaccurate; and
+(c) 有权查悉瑞达国际金融控股有限公司对于资料的政策及实际运用及被告知瑞达国际金融控股有限公司 持有关于他的何种个人资料。
+has the right to ascertain RUI DA's policies and practices in relation to data and to be informed of the kind of personal data held by RUI DA.
+
+11.8 根据私隐条例的规定，瑞达国际金融控股有限公司有权就处理任何查阅资料的要求收取合理费用。
+In accordance with the terms of The Ordinance, RUI DA has the right to charge a reasonable fee for the processing of any data access request.
+
+11.9 任何关于资料查阅或改正资料，或关于资料政策及实际应用及资料种类的要求，应向下列人士提出    :
+The person to whom requests for access to data or correction of data for information regarding policies and practices and kinds of data held are to be addressed is as follows:
+法规部	 Compliance Department
+瑞达国际金融控股有限公司	 Rui Da International Finance Holding Limited
+香港 中环皇后大道中99号	 Units 3305-06, 33/F, The Center,
+中环中心33楼3305-06室	 99 Queen?s Road Central, Central, Hong Kong.
+电话: (852)2534 2000 传真: (852)2563 2368	 Tel: (852)2534 2000 Fax: (852)2563 2368
+
+12. 免责声明/不可抗力 Disclaimer / Force Majeure
+
+12.1 有关任何第三者之失职，瑞达国际金融控股有限公司毋须向客户承担任何责任。
+RUI DA shall not be liable to the Client in any way in respect of the failure of obligation of any third party.
+
+12.2 瑞达国际金融控股有限公司以口头、书面或传真方式，或电子途径或户口批准之其他方式 (透过邮寄除外) 给 予客户之全部通讯均视作客户于讯息发出时收到，客户有责任承担因任何该等传递失误所带来之所有后果。
+All communications from RUI DA to the Client through verbal, written or facsimile form, or Electronic Means or otherwise authorized under the Account (other than via postage) shall be deemed to be received by the Client at the time of the message being sent out and the Client shall be liable for any consequence arising from any failure of such transmission.
+
+12.3 瑞达国际金融控股有限公司毋须就任何直接或间接因任何政府干预、任何有关证监会及任何其他监管机构 (不论香港或海外) 所实施之紧急措施或暂停交易、社会动乱、恐怖主义行为、战争、罢工、自然灾害或任何 其他非瑞达国际金融控股有限公司可合理控制之事件而引致的损失或因而未能进行客户之指示而负责。
+RUI DA shall not be liable for any losses or for any failure to carry out the Client's instructions arising from or resulting  directly  or  indirectly  from  any  government  restriction,  the  imposition  of  emergency  procedures  or suspension of trading by the SFC and any other regulatory bodies (whether in Hong Kong or elsewhere), civil disorder, acts or threatened acts of terrorism, war, strikes, natural disasters or any other event beyond RUI DA's reasonable control.
+
+12.4 无论瑞达国际金融控股有限公司还是瑞达国际金融控股有限公司的任何董事，雇员或经纪人均无须对客户因 以下原因而受到的损失，支出或损害负责：
+Neither RUI DA nor RUI DA's directors, employees, account executives, agents are liable to make any forms of compensation to clients due to the following liabilities:
+(a) 因瑞达国际金融控股有限公司无法控制的任何原因而导致瑞达国际金融控股有限公司无法履行根据本
+协议应履行的义务，或作为客户的经纪人应履行的责任或义务；或
+Because of any reason out of the control of RUI DA or RUI DA is unable to perform its obligations under this Agreement or as an agent or broker of its clients; or
+(b) 瑞达国际金融控股有限公司根据或依赖客户发出的任何指令行事，无论该指令是否根据瑞达国际金融 控股有限公司或其任何董事，雇员或经纪人的推荐，提示或意见作出的；或
+RUI DA will act on behalf of the Client on any instructions given by the Client, no matter these instructions are made in accordance with any recommendation, suggestion or opinions from RUI DA, any of its directors, employees, account executives, brokers; or
+(c) 瑞达国际金融控股有限公司或其任何董事，雇员或代理人与客户户口有关的任何行为或忽略，除非损失是由瑞达国际金融控股有限公司或其董事，雇员或代理人的欺骗，过失或故意违约造成的；或
+RUI DA, any of its directors, employees, accounts executives or agents are not liable to any duties of care in relating to client's account unless the loss is caused by fraud, negligence or intentionally breach of contract by RUI DA, any of its directors, employees or agents; or
+(d) 与本协议有关的货币转换。
+Any Currency conversion in connection with this Agreement.
+
+12.5 在不影响上述 12.4 条的普遍性的情况下，瑞达国际金融控股有限公司或其任何董事，雇员或经纪人不对任何 客户因使用电子交易服务系统的不便，延误或无法使用而蒙受的或据称蒙受的或有关的损失，支出或损害负 任何责任（无论是过失或其他）亦不对瑞达国际金融控股有限公司延误或被指称延误或未能执行客户的指令 负责，即使瑞达国际金融控股有限公司已被告知该些损失或损害的可能性。
+Without any prejudice to the generality of 12.4, RUI DA, any of its directors, employees or brokers are not liable for any loss which arises from the inefficiency, inconvenience, delay or incapacities in the use of any electronic trading service (no matter negligence or otherwise) which fails to execute, delay execution or failure to execute the instructions of the Client even if RUI DA has been advised of the possibility of such loss or damage.
+
+12.6 客户同意向瑞达国际金融控股有限公司或其任何董事，雇员或经纪人(并使其出于完全免责状态)承担弥偿责 任，当中包括所有因瑞达国际金融控股有限公司代客户进行的任何交易或根据本协议或客户的指令或通讯作 出或没有作出的任何行为而直接或间接蒙受或产生或有关的成本，申索，要求，损害，责任和支出(包括完全 弥补基准法律费用)的责任。而且，客户同意采取必要的，或瑞达国际金融控股有限公司认为有利的措施以许 可或确认瑞达国际金融控股有限公司作为客户的代理人或根据本协议代理客户而做的任何事情。客户亦同意 及时支付瑞达国际金融控股有限公司因执行本协议条款而产生的所有损害，成本和支出。
+The Client agrees to indemnify RUI DA, any of its directors, employees, accounts executives or brokers (Complete exemption from total liabilities and obligations) including any transactions made by RUI DA on the Client's behalf of his trading, or in respect of costs, claims, loss, damages, liabilities and expenses (including full compensation of the underlying legal expenses) incurred directly or indirectly. The Client also agrees to pay promptly all damages, costs and expenses arising from the implementation of the terms of this Agreement.
+
+12.7 客户承诺向瑞达国际金融控股有限公司或其任何董事，雇员或经纪人所有因客户违反本协议条款而产生的损 失承担弥偿责任当中包括成本、申索、责任和支出负责，包括瑞达国际金融控股有限公司收取欠债或结束户 口而产生的合理和必须的费用。
+The Client agrees to undertake the costs, claims, loss, liabilities, expenses, reasonable and necessary cost of expenses to RUI DA, any of its directors, employees or brokers arising from the breach of the terms of this Agreement.
+
+13. 一般规定 General
+
+13.1 客户授权瑞达国际金融控股有限公司对客户进行信用咨询或查证，以确定客户之财政状况及投资目标。
+The Client authorizes RUI DA to conduct a credit enquiry or check on the Client for the purpose of ascertaining the Client's financial situation and investment objectives.
+ 
+13.2 本协议之条款将会对瑞达国际金融控股有限公司之承继人、受让人及个人代表 (如适用) 有约束力及利益。瑞 达国际金融控股有限公司亦可在未经客户之事先同意或批准，将本协议之全部或部份之权利或义务授予任何 人。此外，瑞达国际金融控股有限公司可随时将瑞达国际金融控股有限公司追讨未偿还款项之权力授予瑞达 国际金融控股有限公司雇用之收帐公司或代理人。
+The provisions of this Agreement shall be binding on and ensure to the benefit of RUI DA's successors, assigns and personal representatives (where applicable). RUI DA may assign all or part of RUI DA's rights and obligations under this Agreement to any person without the Client's prior consent or approval. Without prejudice to the generality of the foregoing, RUI DA may at any time assign the outstanding balance of the Account owing to RUI DA to any contractual credit management organization or collection agent employed by RUI DA for debt recovery proceeding.
+
+13.3 客户同意瑞达国际金融控股有限公司发出之结算单提及之所有事项，如在结算单传递后之二个工作天内，客 户没有以书面反对，则应被视为已被客户接受。
+The Client hereby agrees to accept statements of accounts issued by RUI DA shall be conclusive as to all matters stated therein if not objected to in writing by the Client within TWO business days after dispatch of the same.
+
+13.4 本协议所载条款、条件及细则概不使瑞达国际金融控股有限公司负上任何责任向客户披露其以任何身份代任 何其他人士或其本身所进行买卖过程中任何获悉之事宜。
+Nothing herein contained shall place RUI DA under any duty to disclose to the Client any fact or thing which comes to its notice in the course of acting in any capacity for any other person or in its own capacity.
+
+13.5 倘瑞达国际金融控股有限公司的业务有重大变更,并且可能影响瑞达国际金融控股有限公司为客户提供的服务, 瑞达国际金融控股有限公司将会通知客户。
+RUI DA will notify the Client of material changes in respect of RUI DA's business which may affect its provision of services to the Client.
+
+13.6 倘客户为一人以上，则各人须承担共同及个别责任，且客户一词将按文义诠释，包括任何一人或各人在内， 而瑞达国际金融控股有限公司将有权与其中任何人士个别往来交易，包括在任何程度上解除某人之责任而不 影响其他人士应负之责任。
+Where the Client consists of more than one person, the liability of each of the Client will be joint and several and references to the Client will be construed as the context requires, to any or each of the Client. RUI DA will be entitled to deal separately with any of the Client including the discharge of any liabilities to any extent without affecting the liability of the others.
+
+14. 管辖法律及司法管辖权 Governing Law and Jurisdiction
+
+14.1 本协议及其执行，应受中华人民共和国香港特别行政区法律管辖和解释 ; 其条文亦必须持续有效，效力覆盖 客户在瑞达国际金融控股有限公司开设或重新开设的个别及全部户口，并对瑞达国际金融控股有限公司、其 业权继承人与承让人 (不论通过合并或其他方式) 及客户的继承人，遗嘱执行人、遗产管理人、遗产承受人、 遗产继承人，法定代表及承让人具有约束力。客户兹服从香港特别行政区法院的审判权。如法庭判决本协议 某些字眼、句子、条款或段落不能执行或违法，本协议其余部份仍可执行及合法。
+Hong Kong Special Administrative Region of the People's Republic of China and its provisions shall be continuous; shall cover individually and collectively all accounts which the Client may open or re-open with RUI DA; and shall insure to the benefit of, and bind RUI DA, RUI DA's successors and assigns, whether by merger, consolidation or otherwise, as well as the heirs, executors, administrators, legatees, successors, personal representatives and assigns of the Client and the Client hereby submits to the jurisdiction of the court of Hong Kong Special Administrative Region. In the event that certain words, sentences, clauses or paragraphs in this Agreement are held unenforceable or against the law by a court of law, then only that word, sentence, clause or paragraph will be considered as such. The rest of this Agreement will be enforceable and within the law.
+
+15. 其他 Miscellaneous
+
+15.1 本协议任何条文不得撤除、排除或限制根据香港特别行政区法例对客户所赋予之任何权利或瑞达国际金融控 股有限公司须承担的责任，除非经瑞达国际金融控股有限公司以书面提出，否则不得放弃执行、更改、修改 或修订本协议的任何条文。
+No provision of this Agreement shall operate to remove, exclude or restrict any rights of the Client or obligations of RUI DA under the laws of Hong Kong Special Administrative Region or shall in any respects be waived, altered, modified or amended unless such waiver, alteration, modification or amendment be committed in writing by RUI DA.
+
+15.2 本协议下的所有交易都应由证券及期货条例以及当时任何在交易所或其他市场以及交易结算所生效的宪法、 条例、规章 习惯、用法、裁决和解释的制约。根据港交所、联交所、期交所、结算所、证监会及/或其他监 管机构的要求，瑞达国际金融控股有限公司须向它们透露有关客户的姓名、受益身份和其他可能要求提供的 资讯。客户同意于瑞达国际金融控股有限公司指定的时间内向瑞达国际金融控股有限公司提供以上资讯，以 便瑞达国际金融控股有限公司遵行以上要求。客户谨不可撤回地授权瑞达国际金融控股有限公司作出任何该 等披露。
+All Transactions under this Agreement shall be subject to the SFO and any constitution, rules, regulations, customs, usage, rulings and interpretations, from time to time in force of the exchange or other market, and of their clearing houses, if any, where the transactions are executed. RUI DA is required, upon the request of HKEx, the Stock Exchange, the Futures Exchange, the Clearing House, the SFC and/or other regulatory authorities, to disclose the name, beneficial identity and such other information concerning the Client as may be required, and the Client agrees to provide such information to RUI DA within the time RUI DA specified for RUI DA to comply with such requirement. The Client irrevocably authorizes RUI DA to make any such disclosure.
+
+15.3	客户同意，倘本条款及条件的中文本与英文本有任何不一致之处，必须以英文本为准。
+The Client agrees that if there is any inconsistency between the Chinese and English versions of these Terms and Conditions, the English version shall prevail.

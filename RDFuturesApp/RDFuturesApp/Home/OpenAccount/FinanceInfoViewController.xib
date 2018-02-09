@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="方正黑体简体.TTF">
+            <string>FZHTJW--GB1-0</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FinanceInfoViewController">
+            <connections>
+                <outlet property="tableView" destination="gqS-5O-3Ud" id="dpJ-eW-wKf"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="gqS-5O-3Ud">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <view key="tableHeaderView" contentMode="scaleToFill" id="wek-Hv-Kj3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="40"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="个人财务情况" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7jh-2S-jO9">
+                                <rect key="frame" x="15" y="10" width="115" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="CbA-nU-MKf"/>
+                                    <constraint firstAttribute="width" constant="115" id="rf9-am-Acm"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="FZHTJW--GB1-0" family="FZHei-B01S" pointSize="16"/>
+                                <color key="textColor" red="0.38431372549019605" green="0.38431372549019605" blue="0.38431372549019605" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.94117647059999998" green="0.94117647059999998" blue="0.94117647059999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="7jh-2S-jO9" firstAttribute="centerY" secondItem="wek-Hv-Kj3" secondAttribute="centerY" id="WJx-J1-d2D"/>
+                            <constraint firstItem="7jh-2S-jO9" firstAttribute="leading" secondItem="wek-Hv-Kj3" secondAttribute="leading" constant="15" id="tkr-Fx-1Iq"/>
+                        </constraints>
+                    </view>
+                    <view key="tableFooterView" contentMode="scaleToFill" id="oSk-8K-7zv">
+                        <rect key="frame" x="0.0" y="96" width="375" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="b_btn" translatesAutoresizingMaskIntoConstraints="NO" id="M4n-5x-eR7">
+                                <rect key="frame" x="15" y="100" width="345" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="OZ7-IR-6bx"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sr4-dn-MbE">
+                                <rect key="frame" x="15" y="100" width="345" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="57i-I4-s6h"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="FZHTJW--GB1-0" family="FZHei-B01S" pointSize="18"/>
+                                <state key="normal" title="下一步">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="nextBtnClick:" destination="-1" eventType="touchUpInside" id="1nb-KN-lCb"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.94117647059999998" green="0.94117647059999998" blue="0.94117647059999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="M4n-5x-eR7" secondAttribute="trailing" constant="15" id="5EH-to-CWy"/>
+                            <constraint firstItem="sr4-dn-MbE" firstAttribute="leading" secondItem="oSk-8K-7zv" secondAttribute="leading" constant="15" id="9zo-Kl-Fc6"/>
+                            <constraint firstItem="M4n-5x-eR7" firstAttribute="top" secondItem="oSk-8K-7zv" secondAttribute="top" constant="100" id="HIZ-cW-9Re"/>
+                            <constraint firstItem="M4n-5x-eR7" firstAttribute="leading" secondItem="oSk-8K-7zv" secondAttribute="leading" constant="15" id="Ysz-Yx-5RM"/>
+                            <constraint firstItem="sr4-dn-MbE" firstAttribute="top" secondItem="oSk-8K-7zv" secondAttribute="top" constant="100" id="bpf-O6-W5r"/>
+                            <constraint firstAttribute="trailing" secondItem="sr4-dn-MbE" secondAttribute="trailing" constant="15" id="uyG-eB-J2j"/>
+                        </constraints>
+                    </view>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.94117647059999998" green="0.94117647059999998" blue="0.94117647059999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="gqS-5O-3Ud" secondAttribute="bottom" id="ZGq-pQ-DgY"/>
+                <constraint firstItem="gqS-5O-3Ud" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="lsf-OZ-eN3"/>
+                <constraint firstItem="gqS-5O-3Ud" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="q8P-7z-f5G"/>
+                <constraint firstAttribute="trailing" secondItem="gqS-5O-3Ud" secondAttribute="trailing" id="wcE-yS-uQE"/>
+            </constraints>
+            <point key="canvasLocation" x="32.5" y="64.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="b_btn" width="156" height="40"/>
+    </resources>
+</document>

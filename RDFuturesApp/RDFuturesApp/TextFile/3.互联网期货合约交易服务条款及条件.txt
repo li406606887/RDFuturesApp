@@ -1,0 +1,148 @@
+互联网期货合约交易服务条款及条件
+Terms and Conditions For Internet Dealing in futures contracts Services
+
+互联网期货合约交易服务使客户能透过互联网进行期货合约交易，以下条款及条件适用于瑞达国际金融控股有限公司为 客户所提供的互联网期货合约交易服务。客户同意在瑞达国际金融控股有限公司开设及维持期货合约交易户口及使用上 述瑞达国际金融控股有限公司提供之服务运作该户口进行期货合约交易。本条款及条件乃附加于及补充第一章的条款及 条件。凡本条款及条件与第一章所载的条款及条件出现任何抵触或不一致的情况，则概以本条款及条件为准。
+Internet Dealing in futures contracts Services is an automated service which enables the Client to send electronic instructions to deal in Dealing in futures contracts. The following terms and conditions shall apply to and govern all the Internet Dealing in futures contracts Services provided to the Client by Rui Da International Finance Holding Limited (hereinafter referred to as "RUI DA"). The Client agrees to open and maintain Dealing in futures contracts account with RUI DA and use the aforesaid services provided by RUI DA for operation of that account in Dealing in futures contracts. These Terms and Conditions are additional and supplemental to the terms and conditions in Chapter1. Where there is any conflict or inconsistency between these Terms and Conditions and the terms and conditions in Chapter 1, these Terms and Conditions shall prevail.
+
+1.	定义和诠释 Definitions and Interpretation
+
+1.1	除下述的第 1.2 条另有规定及另有特别声明者除外，此里的术语之含义与第一章的条款及条件所界定者相 同。
+Subject to Clause 1.2 herein below and unless stated otherwise, terms defined herein have the same meaning as in the terms and conditions of Chapter 1.
+
+1.2	在本条款及条件中，除非上下文另有要求，下列术语应具有如下定义   :
+In these Terms and Conditions, unless the context otherwise requires, the following expressions shall bear the following meanings:
+
+「协议」 指由客户与瑞达国际金融控股有限公司签署的客户协议书、第一章的条款及条件、本章节的条款 及条件、本协议的所有附表、附录和附件以及瑞达国际金融控股有限公司以书面形式不时发布的 所有修改
+"Agreement" means the Client Agreement entered into between the Client and RUI DA, the terms and conditions in Chapter I, the terms and conditions of this Chapter, all schedules, appendices and attachments thereto and all amendments issued by RUI DA in writing from time to time.
+
+「登入号码」    指识别客户身份的名称，须配合密码一起使用以接达有关互联网期货合约交易服务。
+"Login ID" means the Client's identification, used in conjunction with the Password, to gain access to the Internet Dealing in futures contracts Services.
+
+「密码」   指客户的登入密码，须配合登入号码一起使用以接达有关互联网期货合约交易服务。
+"Password" means the Client's password, used in conjunction with the Login ID, to gain access to the Internet Dealing in futures contracts Services.
+
+1.3.	第一章的条款及条件中所提及的「指示」将被视为包括通过互联网期货合约交易服务发出的指示。 References to "instructions" in the terms and conditions of Chapter 1 are deemed to include instructions given by means of the Internet Dealing in futures contracts Services.
+
+2.	互联网期货合约交易服务的使用 Use of Internet Dealing in futures contracts Services
+
+2.1	当瑞达国际金融控股有限公司向客户发出登入号码和密码时，互联网期货合约交易服务将被启动，客户应在 第一次接达互联网期货合约交易服务时立即更改密码。
+On the issuance by RUI DA to the Client of the Login ID and Password, the Internet Dealing in futures contracts Services shall be activated and the Client is advisable to change the Password immediately after the Client has accessed the Internet Dealing in futures contracts Services for the first time.
+
+2.2	瑞达国际金融控股有限公司有权要求客户按瑞达国际金融控股有限公司不时的通知，在执行其任何指示前存 入现金。
+RUI DA is entitled to require the Client to place a cash deposit prior to execution of any instruction as informed by RUI DA from time to time.
+
+2.3	客户同意 :
+The Client agrees:
+
+(i) 将只按照本协议中的条款及条件及瑞达国际金融控股有限公司不时规定的指示和程序使用互联网期货 合约交易服务 ;
+the Client shall use the Internet Dealing in futures contracts Services only in accordance with the terms and conditions of this Agreement and the instructions and procedures to be required by RUI DA to the Client from time to time;
+(ii) 客户本人是互联网期货合约交易服务的唯一授权用户并应对其登入号码和密码的保密及使用承担责任 ;
+the Client shall be the only authorized user of the Internet Dealing in futures contracts Services and shall be responsible for the confidentiality and use of the Login ID and Password;
+(iii) 客户应对利用登入号码和密码而透过互联网期货合约交易服务所输入的所有指示完全负责，瑞达国际 金融控股有限公司收到的任何该等指示将被视为由客户于瑞达国际金融控股有限公司收到的时间及以 收到的形式发出 ;
+the Client shall be solely responsible for all instructions entered through the Internet Dealing in futures contracts Services using the Login ID and Password and any instruction as received by RUI DA shall be deemed to be made by the Client at the time received by RUI DA in the form received;
+(iv) 如果客户发现登入号码或密码有任何遗失、被窃或未经授权使用，应立即通知瑞达国际金融控股有限 公司 ;
+the Client shall immediately inform RUI DA if the Client becomes aware of any loss, theft or unauthorized use of its Login ID or Password;
+(v) 客户不可试图篡改、修改、解编、倒序制造及以其他方法改动互联网期货合约交易服务之任何部份，
+并不可试图在未获授权下接达互联网期货合约交易服务之任何部份 ; 和
+the Client shall not attempt to tamper with, modify decompile, reverse engineer and otherwise alter in any way, and shall not attempt to gain unauthorized access to, any part of the Internet Dealing in futures contracts Services; and
+(vi) 客户在完成互联网期货合约交易后，应立即登出互联网期货合约交易服务。
+the Client shall logoff the Internet Dealing in futures contracts Services immediately following the completion of transaction.
+
+2.4 	在一般情况下，指示一经作出后，便不能更改或取消。但买卖期货合约交易合约的指示在未执行之前则可更 改或取消。
+In general, an instruction once given cannot be altered or cancelled.  However, an instruction to sell or buy Dealing in futures contracts may be altered or cancelled before execution.
+
+2.5	客户须承认及同意 :
+The Client acknowledges and agrees:
+(i) 互联网乃固有地被视为不可靠的通讯媒介，亦非瑞达国际金融控股有限公司所能控制。客户更须承认 由于这些不可靠因素，数据传送、指示及其他资讯的接收时间有所延迟或耽误，从而引致指示执行的 拖延及 /或执行指示时的价格与给予指示时的价格不同 ; 和
+the internet is considered as an inherently unreliable medium of communication and such unreliability is beyond the control of RUI DA. The Client further acknowledges that, as a result of such unreliability, there may be time lag or delays in the transmission of data and receipt of instructions and other information and that this may result in delays in the execution of instructions and/or the execution of instructions at prices different from those prevailing at the time the instructions were given; and
+(ii) 透过互联网期货合约交易服务进行之任何通讯均会出现资料外泄、干扰、延迟、误解或出错之风险，
+而此等风险须由客户绝对地承担。
+there are risks of leakage of information, interruption, delay, misunderstanding or errors in any communication via the Internet Dealing in futures contracts Services and that such risks shall be absolutely borne by the Client.
+
+2.6	如客户于香港以外地方透过互联网期货合约交易服务发出任何指示，客户同意确保及声明在有关司法权管辖 区发出指示时会遵守该司法权管辖区任何适用之法律。客户进一步同意如出现疑问将征询有关司法权管辖区 法律顾问之意见。客户同意支付就有关任何指示可能须缴付之税项或收费，瑞达国际金融控股有限公司并不 须就该等费用负上任何责任。
+If the Client places any instructions with RUI DA outside Hong Kong via the Internet Dealing in futures contracts Services, the Client agrees to ensure and represent that such instructions will have been given in compliance with any applicable law of the relevant jurisdiction from which the Client's instructions are given. The Client further agrees that it will, when, in doubt consult legal advisers of the relevant jurisdiction. The Client accepts that there may be taxes or charges payable to relevant authorities in respect of any instructions and that RUI DA shall not be liable for any of such costs.
+
+2.7	如果互联网期货合约交易服务未能使用，客户应根据第一章的条款及条件之规定发出指示。
+In case the Internet Dealing in futures contracts Services is not available, the Client shall place its instructions in accordance with the terms and conditions of Chapter 1.
+ 
+
+3.	责任和赔偿的限制 Limitation of Liability and Indemnification
+
+3.1 	瑞达国际金融控股有限公司、其业务代理、以及资讯供应者对由于难以合理控制的情况而使客户遭受的任何 损失、开支、费用或责任概不负责， 包括但不限于以下情况 :
+RUI DA, its corresponding agents and the information providers shall not be responsible for any losses, costs, expenses or liabilities suffered by the Client resulting from circumstances beyond their reasonable control including but not limited to the following circumstances.
+(i)	瑞达国际金融控股有限公司对任何基于不在其合理控制范围内的原因    (包括但并不限于通讯设施的故障
+或失灵，或任何通讯中断、讹误或截断)    ，而导致传送、接收或执行的指示有所错误、延误或失败  ; inaccuracies, delays or failure in the transmission, receipt or execution of instructions or communications due to any cause not under RUI DA's reasonable control, including but not limited to a breakdown or failure of communication facilities or any interruption, delay, corruption or interception of such information;
+(ii)	由瑞达国际金融控股有限公司或其资讯供应者所提供的市场研究、分析、市场数据以及其他资讯的延
+误、不准确、遗漏或缺乏 ;
+delays, inaccuracies or omissions in or unavailability or research, analysis, market data and other information provided by RUI DA or its information providers;
+(iii)	未经授权下进入通讯系统，包括未经授权下使用客户的登入号码、密码、和/或户口号码  ;    和/或
+unauthorized  access  to  communications  systems,  including  unauthorized  use  of  the  Client  Login  ID,Password(s) and/or account numbers; and/or
+(iv)	战争或军事行动、政府的限制、劳资纠纷或任何市场或交易所的正常交易被关闭或中断、恶劣的天气 情况及天灾。
+wars or military actions, government restrictions, labour disputes or closure of or disruption to orderly trading on any market or exchange, severe weather conditions and natural disasters.
+
+3.2	客户同意，如客户违反了本协议的条款及条件、适用的法例或规例、或任何第三方的权利，包括 (但不限于) 对任何版权的侵犯、对任何知识产权的侵犯以及对任何私隐权的侵犯,而使瑞达国际金融控股有限公司、其业 务代理及资讯供应者遭受任何或所有的索债、损失、责任、开支和费用 (包括但不限于律师费)，客户将就此 向他们作出赔偿及给予他们免责保障，以及保证他们不会因此而招致任何损失。即使本协议终止后，客户在 此的责任将仍然有效。
+The Client agrees to defend, indemnify and hold RUI DA, its corresponding agents and the information providers harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to attorneys' fees) arising from the Client's violation of the terms and conditions of this Agreement, applicable laws or regulations, or any third party's rights, including but not limited to infringement of any copyright, violation of any proprietary right and invasion of any privacy rights. This obligation will survive the termination of this Agreement.
+
+3.3 	客户接受，尽管瑞达国际金融控股有限公司将尽力确保所提供的资讯的准确性和可靠性，瑞达国际金融控股 有限公司并不能绝对保证这些资讯准确和可靠，及对由于资讯出现任何不准确或遗漏而导致客户遭受的任何 损失或损害，瑞达国际金融控股有限公司概不承担责任    (无论是在民事过失、合约或其他法律上)。
+The Client accepts that while RUI DA endeavours to ensure the accuracy and reliability of the information provided, RUI DA does not guarantee its accuracy or reliability and accepts no liability (whether in tort, contract or otherwise) for any loss or damage from any inaccuracies or omission.
+
+3.4 	瑞达国际金融控股有限公司对有关系统服务及系统不作明示或隐含的保证。客户知悉该系统非为客户个别需 求开发而是为客户选择及客户应就其意愿及按其可承担的风险按以「现状」使用，瑞达国际金融控股有限公 司不应为客户的选择或使用系统而产生的任何后果负责。
+RUI DA makes no warranty, express or implied, concerning the Services and the System. The Customer acknowledges that the System has not been developed for the Customer?s individual needs and has been selected and is used by the Customer on an “as is” basis at his/her/its own volition and risk and that RUI DA shall bear no responsibility whatsoever for any consequence arising from the Customer?s choice or use of the System.
+
+3.5	客户应承担所有从或透过系统使用或接触任何数据、档案、资讯、内容或其他资料（包括但不限于软件）所 带来的责任及损失风险。
+The Customer assumes full responsibility and risk of Loss whatsoever resulting from its use of, or access to data, files, information, content, or other materials (including without limitation software) on or through the System.
+
+3.6 	瑞达国际金融控股有限公司无责任维持透过系统给予的系统服务及资讯，或为其提供任何修改或更新。有效 的系统服务及资讯可随时修改而无须给予事先通知。
+RUI DA shall have no responsibility to maintain the Services and information made through the System or to supply any corrections or updates in connection therewith. Availability of the Services and information are subject to change without notice.
+
+3.7	客户需就经系统传递予瑞达国际金融控股有限公司的电子指示及资讯之准确性和完备性及透过给予登入权限 而对系统的使用承担责任。瑞达国际金融控股有限公司有权依据及遵照该电子指示（毋须就电子指示的真实 性或其授权作出尽职调查）行动，并视该等资料为准确、完整及经客户恰当授权及对客户有约束力。任何瑞 达国际金融控股有限公司按任何有关电子指示及资料执行的任何交易，不论是否事实上已经由客户授权执 行，均对客户具有约束力。电子指示只能经系统或其他瑞达国际金融控股有限公司与客户不时共同协议的方 式才能撤销或更改。客户同意维持足够的保安程序，防止任何非获客户正式授权的人士未经授权登入或使用系统，从而通过系统发出电子指示。在不违反第 3.4 条一般性的原则下，瑞达国际金融控股有限公司不会就系统服务及系统的安全性对客户作明示或隐含的保证，包括非被授权人士截取或获取客户经系统传递的资讯。
+The Customer is responsible for the accuracy and adequacy of all Electronic Instructions and information communicated via the System to RUI DA and for all use made of the System through the access provided to the Customer. RUI DA shall be entitled to rely and act on such Electronic Instructions (without conducting any due diligence as to the authenticity or authority of the Electronic Instructions) and information as being accurate, complete and duly authorized by and binding on the Customer. Any transaction executed by RUI DA in accordance with any such Electronic Instruction or information shall be binding on the Customer regardless of whether or not it has in fact been effected with the Customer?s authority. Electronic Instructions may only be revoked or amended via the System or such other way(s) as agreed between RUI DA and the Customer from time to time. The Customer agrees to maintain adequate security procedures to prevent unauthorized access to or use of the System by any person other than the Authorized Persons who are duly authorized by the Customer to give such Electronic Instructions to RUI DA via the System. Without prejudice to the generality of Clause 3.4, RUI DA makes no warranty whatsoever to the Customer express or implied, regarding the security of the Services and the System, including with respect to the ability of unauthorized persons to intercept or access information transmitted by the Customer through the System.
+
+3.8 	客户确认及同意，作为瑞达国际金融控股有限公司提供服务及系统的条件，如果出现以下情况，客户须即时 通知瑞达国际金融控股有限公司：
+The Customer acknowledges and agrees that, as a condition of RUI DA?s provision of the Services and the System, the Customer shall immediately notify RUI DA if:
+(a)	于发出一项电子指示后，客户并未收到瑞达国际金融控股有限公司的任何指示确认书或客户指称确认 书列载之详情不正确；或
+after giving an Electronic Instruction, the Customer has not received any order acknowledgement from RUI DA or the Customer alleges that such acknowledgement contains incorrect details; or
+(b)	客户知悉任何对客户数码证书、登入名称或密码的任何未获授权使用或披露或存取的情况，或任何未 获授权的交易已被执行。
+the Customer becomes aware of any unauthorized disclosure or use of or access to the Customer?s digital certificate, log-in name or password or that any unauthorized transactions have been effected.
+
+3.9 	电子服务系统的指令类型，由于指令的复杂性，或由于理解错误，或由操作不当，或系统原因可能导致无法 按照客户真实意愿或计划执行指令或达到执行目的。因此客户须审慎应用，并持续保持对所有指令的关注并 及时核对，但因此造成的损失国际金融控股有限公司不承担责任。
+Because of the types of instructions, the complexity of the instructions, misunderstanding, improper operation, systematic reasons, the electronic system may not be able to execute the Client's instructions in accordance with his wishes, plan or desire and therefore the Client should be cautious in application of the electronic device and continue to pay attention to his instructions. However RUI DA will not be liable to any loss and responsibilities.
+
+4.	互联网期货合约交易服务之终止
+Termination of Internet Dealing in futures contracts Services
+
+4.1 	瑞达国际金融控股有限公司保留权利，并有绝对酌情权而无需通知及不受限制地，于任何原因,终止客户接达 互联网期货合约交易服务或其任何部份，包括但不限于未经授权下使用客户的登入号码、密码、和/或户口号 码、客户违反本协议、瑞达国际金融控股有限公司未能继续从任何资讯供应者获得任何资讯、或瑞达国际金 融控股有限公司与资讯供应者之间的一个或多个协议被终止。
+RUI DA reserves the right to terminate the Client's access to the Internet Dealing in futures contracts Services or any portion of them in its sole discretion, without notice and without limitation, for any reason whatsoever, including but not limited to the unauthorized use of the Login ID, Password and/or account number(s), breach of this Agreement by the Client or discontinuance of RUI DA's access to any information from any information provider or termination of one or more agreements between RUI DA and information providers.
+
+4.2 	若瑞达国际金融控股有限公司终止互联网期货合约交易服务，资讯供应者及瑞达国际金融控股有限公司将无 需向客户承担任何责任。
+ 
+
+In the event of termination of the Internet Dealing in futures contracts Services by RUI DA, the information providers and RUI DA shall have no liability to the Client.
+
+5.	风险披露 Risk Disclosure
+
+5.1	瑞达国际金融控股有限公司要求客户参阅本协议中所载的风险披露声明。
+RUI DA refers the Client to the Risk Disclosure Statements contained in this Agreement.
+
+5.2 	客户承认并接受倘若其透过互联网期货合约交易服务进行交易，客户将会承受系统相关的风险，包括硬件和 软件发生故障的风险。任何系统发生故障的后果可能使客户的指示不能按其指示执行或完全不获执行。
+The Client acknowledges and accepts that if he undertakes transactions on Internet Dealing in futures contracts Services, he will be exposed to risks associated with the system including the failure of hardware and software, and that the result of any system failure may be that his instructions is either not executed according to his instructions or is not executed at all.
+
+5.3 	客户承认并接受，由于无法预计的通讯阻塞或其他原因，电子传送不一定是一种可靠的通讯方法。通过互联 网期货合约交易服务进行的交易，在传送和接收客户指示或其他资料会出现延迟，在执行客户指示时会出现 延迟或执行指示时的价格与给予指示时的价格不同，通讯设施亦会出现故障式中断。客户还需承担被误传或 沟通错误的风险，而指示发出后通常不可取消。由于此类中断、耽误或被第三方进入而使客户遭受的任何损 失，瑞达国际金融控股有限公司概不承担责任。如果客户不准备接受此类中断或耽误引致的风险，客户不应 透过电子服务来作出任何指示。
+The Client acknowledges and accepts that due to unpredictable traffic congestion and other reasons, electronic transmission may not be a reliable medium of communication, that transaction conducted via Internet Dealing in futures contracts Services are subject to delays in transmission and receipt of Client's instructions or other information, delays in execution or execution of Client's instructions at prices different from those prevailing at the time Client's instructions were given, transmission interruption or blackout, that there are risks of misunderstanding or errors in communication, and that there is also usually not possible to cancel an instruction after it has been given. RUI DA accepts no responsibility for any loss which may be incurred by the Client as a result of such interruptions or delays or access by third parties.  The Client should not place any instruction with RUI DA via electronic services if the Client is not prepared to accept the risk of such interruptions or delays.
+
+5.4 	通过电子服务向客户提供的市场数据和其他资讯可能是瑞达国际金融控股有限公司从第三者获得的。虽然瑞 达国际金融控股有限公司相信这些数据和资讯是可靠的，但瑞达国际金融控股有限公司或该等第三者都不会 保证这些数据和资讯的准确性、完整性和即时性。
+Market data and other information made available to the Client through the electronic service of RUI DA may be obtained by RUI DA from third parties. While RUI DA believes such market data or information to be reliable, neither RUI DA nor such third parties guarantees the accuracy, completeness or timeliness of any such market data or information.
+
+6.	一般事项 General
+
+6.1	倘若发生任何争议，客户同意以瑞达国际金融控股有限公司的记录  (包括电子记录)    为准。
+In the event of any dispute between the parties, the Client agrees that the records of RUI DA (including electronic records) shall prevail.
+
+6.2 	本协议之任何条款及所有透过互联网期货合约交易服务完成的交易适用香港特别行政区法律，各方当事人甘 愿受香港法院的非专属司法管辖权管辖。
+This Agreement and all transactions effected through Internet Dealing in futures contracts Services are governed by the laws of the Hong Kong Special Administrative Region. The parties submit to the non-exclusive jurisdiction of the Hong Kong courts.
+
+6.3	瑞达国际金融控股有限公司可不时修改本协议之条款及条件，并会以书面方式向客户发出合理通知。
+RUI DA may change the terms and conditions of this Agreement from time to time by giving the Client reasonable notice in writing.
+
+6.4	客户同意，倘本条款及条件的中文本与英文本有任何不一致之处，必须以英文本为准。
+The Client agrees that if there is any inconsistency between the Chinese and English versions of these Terms and Conditions, the English version shall prevail.
